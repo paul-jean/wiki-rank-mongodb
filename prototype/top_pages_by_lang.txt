@@ -1,0 +1,3589 @@
+==> counts/counts_lang_en.txt <==
+1680659	en
+124694	Main_Page
+28520	Auld_Lang_Syne
+13403	Cyndi_Lauper
+9166	2012_phenomenon
+6929	Bee_Gees
+6876	Nina_Simone
+6705	Gregory_Porter
+6150	404_error
+5911	Jools_Holland
+
+==> counts/counts_lang_ja.txt <==
+148175	ja
+8005	%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8
+4681	%E5%B1%B1%E7%94%B0%E5%AD%9D%E4%B9%8B
+2917	%E5%88%9D%E5%A4%A2
+1993	%E5%B9%B3%E7%94%B0%E4%BF%A1
+1666	AV%E5%A5%B3%E5%84%AA%E4%B8%80%E8%A6%A7
+1627	%E7%8C%AA%E8%8B%97%E4%BB%A3%E6%B9%96%E3%82%BA
+1624	%E6%B8%A9%E6%B0%B4%E6%B4%8B%E4%B8%80
+1321	Chiho
+1205	%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF_(2012%E5%B9%B4)
+
+==> counts/counts_lang_fr.txt <==
+126821	fr
+3188	Sim
+3044	C._J%C3%A9r%C3%B4me
+2333	2012
+2078	Carlos_(chanteur)
+1567	Michel_Berger
+1486	Sophie_Thalmann
+1352	Pr%C3%A9dictions_pour_d%C3%A9cembre_2012
+1012	Aliz%C3%A9e
+967	Patrick_Bruel
+
+==> counts/counts_lang_es.txt <==
+139672	es
+12957	Alaska_(cantante)
+4727	Anne_Igartiburu
+4454	Ana_Torroja
+3533	Pitingo
+3296	Laura_Pausini
+2497	2012
+2148	Carlos_Baute
+1706	Forrest_Gump
+1646	David_Summers
+
+==> counts/counts_lang_pl.txt <==
+16562	pl
+4357	Strona_g%C5%82%C3%B3wna
+3201	w/index.php
+2891	Co_si%C4%99_wydarzy%C5%82o_w_Madison_County
+2380	D%C5%BCem_(grupa_muzyczna)
+1421	Monika_Brodka
+1240	Ryszard_Riedel
+1085	Iwona_W%C4%99growska
+1080	Blue_Caf%C3%A9
+973	Nowy_Rok
+
+==> counts/counts_lang_de.txt <==
+104046	de
+3303	Take_That
+2714	Hauptseite
+2698	Dschinghis_Khan
+2383	Andrea_Berg
+2288	Leg_dich_nicht_mit_Zohan_an
+2098	Bleigie%C3%9Fen
+1888	Robbie_Williams
+1774	Utopie
+1772	Utopie%23Gesellschaftliche_Utopien
+
+==> counts/counts_lang_zh.txt <==
+5132	zh
+342	null
+335	%E6%9D%8E%E6%B4%AA%E5%BF%97
+219	AV%E5%A5%B3%E5%84%AA
+212	%E5%85%83%E6%97%A6
+189	%E8%85%8A%E5%85%AB%E8%8A%82
+186	%E5%88%87%E6%96%AF%E7%89%B9%C2%B7%E5%A8%81%E5%BB%89%C2%B7%E5%B0%BC%E7%B1%B3%E5%85%B9
+144	%E7%99%BE%E5%BA%A6
+138	favicon.ico
+138	%E5%A4%A9%E8%88%87%E5%9C%B0_(%E7%84%A1%E7%B6%AB%E9%9B%BB%E8%A6%96%E5%8A%87)
+
+==> counts/counts_lang_he.txt <==
+5837	he
+1151	%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99
+531	%D7%A1%D7%99%D7%9C%D7%91%D7%A1%D7%98%D7%A8
+148	%D7%A1%D7%99%D7%9C%D7%91%D7%A1%D7%98%D7%A8_%D7%94%D7%A8%D7%90%D7%A9%D7%95%D7%9F
+100	%D7%90%D7%95%D7%A8%D7%9F_%D7%9B%D7%94%D7%9F
+84	%D7%A7%D7%A4%D7%94
+68	2012
+67	%D7%99%D7%94%D7%93%D7%95%D7%AA_%D7%97%D7%A8%D7%93%D7%99%D7%AA
+61	%D7%9E%D7%A9%D7%9E%D7%A2%D7%95%D7%AA_%D7%94%D7%97%D7%99%D7%99%D7%9D
+61	%D7%9E%D7%99%D7%96%D7%95%D7%A8%D7%99
+
+==> counts/counts_lang_fa.txt <==
+2228	fa
+319	%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C
+111	%D8%B7%D8%B1%D8%AD_%D8%A7%D8%B1%D8%AA%D9%82%D8%A7%DB%8C_%D8%A7%D9%85%D9%86%DB%8C%D8%AA_%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C
+61	%D8%A2%D9%85%DB%8C%D8%B2%D8%B4_%D8%AC%D9%86%D8%B3%DB%8C
+52	%D8%AA%D9%87%D8%B1%D8%A7%D9%86
+45	%D8%A2%D9%86%D8%AF%D8%B1%D8%A7_%D9%BE%D8%A7%D9%84%D8%A7%D8%AF%DB%8C%D9%88
+43	%DA%A9%DB%8C%D8%B1
+33	%D9%85%D9%86%D8%A7%D8%B7%D9%82_%D8%B4%D9%87%D9%88%D8%A7%D9%86%DB%8C
+32	%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7
+32	%D8%A7%D9%88%D8%AC_%D9%84%D8%B0%D8%AA_%D8%AC%D9%86%D8%B3%DB%8C
+
+==> counts/counts_lang_pt.txt <==
+20992	pt
+1387	Dolph_Lundgren
+857	Ano-Novo
+684	TCPsearch.php
+652	P%C3%A1gina_principal
+652	Mega-Sena
+591	Eike_Batista
+480	2012
+477	Aurora_polar
+430	Orkut
+
+==> counts/counts_lang_ar.txt <==
+9819	ar
+3411	%D8%A7%D9%84%D8%AD%D8%AC%D8%A7%D8%B2
+2820	%D9%85%D8%B9%D8%B3%D9%83%D8%B1
+1464	%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9
+195	%D9%85%D9%83%D8%A9
+104	%D9%81%D8%AA%D8%AD_%D9%85%D9%83%D8%A9
+104	%D8%B9%D9%8A%D8%AF_%D8%A7%D9%84%D9%85%D9%8A%D9%84%D8%A7%D8%AF
+101	setup.php
+97	%D9%85%D8%B5%D8%B1
+73	%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8
+
+==> counts/counts_lang_it.txt <==
+57212	it
+21270	Pagina_principale
+4130	Pooh
+3200	Capodanno
+1677	Antonello_Venditti
+1568	Roby_Facchinetti
+1524	Irene_Grandi
+927	2012
+848	Bobby_Darin
+697	Dodi_Battaglia
+
+==> counts/counts_lang_uk.txt <==
+1193	uk
+444	%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0
+125	%D0%9C%D0%B0%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE_%D0%9E%D0%BA%D1%81%D0%B0%D0%BD%D0%B0_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D1%96%D0%B2%D0%BD%D0%B0
+65	%D0%91%D1%80%D0%B0%D1%82%D0%B8_%D0%93%D0%B0%D0%B4%D1%8E%D0%BA%D1%96%D0%BD%D0%B8
+55	%D0%86%D0%BA%D1%81-%D0%A4%D0%B0%D0%BA%D1%82%D0%BE%D1%80
+49	%D0%9D%D0%BE%D0%B2%D0%B8%D0%B9_%D1%80%D1%96%D0%BA
+37	Scooter
+37	%D0%9F%D0%B0%D0%B2%D0%BB%D1%96%D0%BA_%D0%92%D1%96%D0%BA%D1%82%D0%BE%D1%80_%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D0%B8%D1%87
+35	%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%82%D1%8F
+30	%D0%A1%D0%BA%D1%80%D0%B8%D0%BF%D0%BA%D0%B0_%D0%9E%D0%BB%D0%B5%D0%B3_%D0%AE%D1%80%D1%96%D0%B9%D0%BE%D0%B2%D0%B8%D1%87
+
+==> counts/counts_lang_www.txt <==
+1672	Steve_Wozniak
+630	MediaWiki
+144	Main_Page
+110	Phishing
+91	Malware
+73	EAN-13
+67	QR_Code
+65	Download
+33	index.html
+24	User_hub
+
+==> counts/counts_lang_ko.txt <==
+8153	ko
+505	1%EC%9B%94_1%EC%9D%BC
+191	%EC%9E%84%EC%A7%84
+155	%EB%B0%95%EB%AC%B4_%28%EC%A0%95%EC%B9%98%EC%9D%B8%29
+137	%B9%DA%B9%AB_%28%C1%A4%C4%A1%C0%CE%29
+63	%ED%99%8D%EC%A7%84%EC%98%81
+58	%EC%9C%A4%EC%84%9C%EC%9D%B8
+56	%EB%84%A4%EC%9D%B4%EB%B2%84
+50	w/index.php
+48	2012%EB%85%84_%EC%A2%85%EB%A7%90%EB%A1%A0
+
+==> counts/counts_lang_nl.txt <==
+21343	nl
+6211	Hoofdpagina
+2095	Anita_Meyer
+1795	Bliksem
+801	Rob_de_Nijs
+574	Racoon
+497	Glennis_Grace
+494	Robbie_Williams
+469	Caro_Emerald
+400	Vuurwerk
+
+==> counts/counts_lang_cs.txt <==
+3357	cs
+1954	Hlavn%C3%AD_strana
+320	Karel_Gott
+191	Michal_David
+117	Vlasta_Burian
+106	Helena_Vondr%C3%A1%C4%8Dkov%C3%A1
+99	Yo_Yo_Band
+87	2012
+86	PF
+82	Petr_Muk
+
+==> counts/counts_lang_el.txt <==
+1763	el
+170	%CE%91%CF%81%CE%B5%CF%84%CE%AE_%CE%9A%CE%B5%CF%84%CE%B9%CE%BC%CE%AD
+158	el.wikipedia.org/w/index.php
+126	%CE%A3%CF%80%CF%8D%CF%81%CE%BF%CF%82_%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82
+79	%CE%A4%CE%BF_%CF%81%CE%B5%CF%84%CE%B9%CF%81%CE%AD
+73	El.wikipedia.org/w/index.php
+51	%CE%A0%CF%85%CE%BE_%CE%9B%CE%B1%CE%BE
+47	Onirama
+47	Google
+47	%CE%9A%CF%8E%CF%83%CF%84%CE%B1%CF%82_%CE%9C%CE%B1%CE%BA%CE%B5%CE%B4%CF%8C%CE%BD%CE%B1%CF%82
+
+==> counts/counts_lang_tr.txt <==
+9632	tr
+2421	Ana_Sayfa
+1315	Halil_Sezai_Parac%C4%B1ko%C4%9Flu
+1299	Mekke%27nin_fethi
+983	1_Ocak
+601	Google
+354	Zamanda_yolculuk
+340	Hadise
+285	Andrea_Bocelli
+280	Britney_Spears
+
+==> counts/counts_lang_bg.txt <==
+1611	bg
+316	%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
+307	%D0%9A%D0%B0%D0%BC%D0%B5%D0%BB%D0%B8%D1%8F_(%D0%BF%D0%B5%D0%B2%D0%B8%D1%86%D0%B0)
+276	%D0%98%D0%B2%D0%B0%D0%BD%D0%B0
+258	%D0%9C%D0%B8%D0%BA_%D0%94%D0%B6%D0%B0%D0%B3%D1%8A%D1%80
+221	%D0%A4%D0%A1%D0%91
+218	%D0%93%D0%BB%D0%BE%D1%80%D0%B8%D1%8F
+141	%D0%A0%D0%BE%D0%BB%D0%B8%D0%BD%D0%B3_%D0%A1%D1%82%D0%BE%D1%83%D0%BD%D1%81
+120	%D0%9C%D0%B8%D1%80%D0%BE
+99	%D0%9F%D1%80%D0%B5%D1%81%D0%BB%D0%B0%D0%B2%D0%B0_(%D0%BF%D0%B5%D0%B2%D0%B8%D1%86%D0%B0)
+
+==> counts/counts_lang_th.txt <==
+817	th
+140	%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81
+46	%E0%B8%AA.%E0%B8%84.%E0%B8%AA._%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%97%E0%B8%B2%E0%B8%99
+20	1_%E0%B8%A1%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%A1
+20	%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B8%9B%E0%B8%B5%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88
+18	%E0%B9%84%E0%B8%AB%E0%B8%A7%E0%B9%89%E0%B8%9E%E0%B8%A3%E0%B8%B0_9_%E0%B8%A7%E0%B8%B1%E0%B8%94_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3
+17	%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B8%A5%E0%B8%B2%E0%B8%A1%E0%B8%81
+16	%E0%B8%9E.%E0%B8%A8._2555
+15	Giant_Panda
+14	%E0%B8%9A%E0%B8%97%E0%B8%AA%E0%B8%A7%E0%B8%94%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%84%E0%B8%B2%E0%B8%96%E0%B8%B2
+
+==> counts/counts_lang_sv.txt <==
+32565	sv
+1781	Jan_Malmsj%C3%B6
+1567	Europe
+1190	Ny%C3%A5rsdagen
+669	Ny%C3%A5rsklockan
+537	Joey_Tempest
+343	Loretta_Lynn
+313	2012
+295	2012-fenomen
+258	Laddat_vapen
+
+==> counts/counts_lang_fi.txt <==
+7354	fi
+362	Uusivuosi
+219	Apollo_13
+185	Adele_(laulaja)
+180	2012
+148	Bret_Michaels
+121	Motown
+115	Aira_Samulin
+95	Apollo_11
+94	Apollo_(avaruusohjelma)
+
+==> counts/counts_lang_sr.txt <==
+479	sr
+183	%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0
+57	Most_na_Adi
+36	%D0%9B%D0%B5%D0%BF%D0%B0_%D0%9B%D1%83%D0%BA%D0%B8%D1%9B
+34	%D0%96%D0%B0%D1%80%D0%BA%D0%BE_%D0%9B%D0%B0%D1%83%D1%88%D0%B5%D0%B2%D0%B8%D1%9B
+32	%D0%94%D0%B8%D0%BD%D0%BE_%D0%9C%D0%B5%D1%80%D0%BB%D0%B8%D0%BD
+16	%D0%89%D0%B8%D1%99%D0%B0%D0%BD%D0%B0_%D0%91%D0%BE%D0%B6%D0%B8%D1%87%D0%BA%D0%BE%D0%B2%D0%B8%D1%9B
+14	%D0%88%D1%83%D0%BB%D0%B8%D1%98%D0%B0%D0%BD%D1%81%D0%BA%D0%B0_%D0%9D%D0%BE%D0%B2%D0%B0_%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0
+13	%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D1%81%D0%BA%D0%BE_%D0%BF%D1%80%D0%B2%D0%B5%D0%BD%D1%81%D1%82%D0%B2%D0%BE_%D1%83_%D1%84%D1%83%D0%B4%D0%B1%D0%B0%D0%BB%D1%83_1976.
+13	%D0%94%D1%80%D0%B0%D0%B3%D0%B0%D0%BD%D0%B0_%D0%9C%D0%B8%D1%80%D0%BA%D0%BE%D0%B2%D0%B8%D1%9B
+
+==> counts/counts_lang_da.txt <==
+7600	da
+878	Steffen_Brandt
+602	Tina_Dickow
+579	Kathrine_Lille%C3%B8r
+353	Forside
+259	Four_Jacks
+181	Tv%C2%B72
+165	90-%C3%A5rs-f%C3%B8dselsdagen
+152	Kylie_Minogue
+132	Kasper_Winding
+
+==> counts/counts_lang_hu.txt <==
+2560	hu
+744	Kezd%C5%91lap
+254	Garas_Dezs%C5%91
+250	Magyarorsz%C3%A1g_himnusza
+123	Sz%C3%A9kely_himnusz
+123	Magyarorsz%C3%A1g
+121	Leonardo_DiCaprio
+116	Eredet_(film)
+101	Maja_napt%C3%A1r
+98	Schmitt_P%C3%A1l
+
+==> counts/counts_lang_ca.txt <==
+1002	ca
+186	Portada
+49	Cap_d%27any
+30	M%C3%A0gic_Andreu
+29	Laura_Pausini
+26	%C3%80ngel_Casas_i_Mas
+23	Ana_Torroja
+22	Josep_Maria_Bachs_i_Torner
+21	Alaska
+18	Constituci%C3%B3_Espanyola_de_1812
+
+==> counts/counts_lang_ta.txt <==
+33	%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AE%B1%E0%AF%8D_%E0%AE%AA%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D
+30	ta
+15	%25E0%25AE%25A8%25E0%25AE%25A3%25E0%25AF%258D%25E0%25AE%259F%25E0%25AF%2581
+12	%E0%AE%B5%E0%AE%BF%E0%AE%B7%E0%AF%8D%E0%AE%A3%E0%AF%81
+10	%E0%AE%AA%E0%AE%A9%E0%AF%88
+8	%E0%AE%95%E0%AE%BF%E0%AE%AE%E0%AF%8D_%E0%AE%9C%E0%AF%8A%E0%AE%99%E0%AF%8D-%E0%AE%87%E0%AE%B2%E0%AF%8D
+5	%E0%AE%AE%E0%AF%8B%E0%AE%95%E0%AE%A9%E0%AF%8D%E0%AE%A4%E0%AE%BE%E0%AE%9A%E0%AF%81_%E0%AE%95%E0%AE%B0%E0%AE%AE%E0%AF%8D%E0%AE%9A%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%8D_%E0%AE%95%E0%AE%BE%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF
+5	%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%95_%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%BE%E0%AE%B1%E0%AF%81
+5	%E0%AE%9A%E0%AF%82%E0%AE%B2%E0%AF%88_30
+4	2012
+
+==> counts/counts_lang_no.txt <==
+6671	no
+615	Andrea_Bocelli
+325	William_Wallace
+110	Mayakalender
+105	Kinesisk_kalender
+96	2012
+87	Hovedside
+87	Braveheart
+68	Fyrverkeri
+61	C%C3%A9line_Dion
+
+==> counts/counts_lang_ka.txt <==
+299	%E1%83%9B%E1%83%97%E1%83%90%E1%83%95%E1%83%90%E1%83%A0%E1%83%98_%E1%83%92%E1%83%95%E1%83%94%E1%83%A0%E1%83%93%E1%83%98
+19	ka
+11	%E1%83%99%E1%83%98%E1%83%9B_%E1%83%A9%E1%83%94%E1%83%9C_%E1%83%98%E1%83%A0%E1%83%98
+6	%E1%83%A1%E1%83%9E%E1%83%90%E1%83%A0%E1%83%A2%E1%83%90
+4	User
+4	%E1%83%A5%E1%83%A0%E1%83%98%E1%83%A1%E1%83%A2%E1%83%98%E1%83%90%E1%83%9C%E1%83%9D%E1%83%91%E1%83%90
+4	%E1%83%97%E1%83%90%E1%83%97%E1%83%A0%E1%83%94%E1%83%91%E1%83%98
+4	%E1%83%91%E1%83%94%E1%83%93%E1%83%98%E1%83%A1_%E1%83%98%E1%83%A0%E1%83%9D%E1%83%9C%E1%83%98%E1%83%90,_%E1%83%90%E1%83%9C%E1%83%A3_%E1%83%92%E1%83%90%E1%83%90%E1%83%9B%E1%83%9D%E1%83%97_(%E1%83%A4%E1%83%98%E1%83%9A%E1%83%9B%E1%83%98)
+4	%E1%83%90%E1%83%9C%E1%83%90%E1%83%9A%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%A1%E1%83%94%E1%83%A5%E1%83%A1%E1%83%98
+3	13_%E1%83%93%E1%83%94%E1%83%99%E1%83%94%E1%83%9B%E1%83%91%E1%83%94%E1%83%A0%E1%83%98
+
+==> counts/counts_lang_vi.txt <==
+1981	vi
+316	Trang_Ch%C3%ADnh
+100	Danh_s%C3%A1ch_t%C6%B0_th%E1%BA%BF_quan_h%E1%BB%87_t%C3%ACnh_d%E1%BB%A5c
+38	Qu%C3%A2n_h%C3%A0m_Qu%C3%A2n_l%E1%BB%B1c_Vi%E1%BB%87t_Nam_C%E1%BB%99ng_h%C3%B2a
+33	T%E1%BA%BFt
+32	Quan_h%E1%BB%87_t%C3%ACnh_d%E1%BB%A5c
+25	Google
+24	Hi%E1%BB%87n_t%C6%B0%E1%BB%A3ng_2012
+23	Vi%E1%BB%87t_Nam
+23	B%E1%BB%99_ph%E1%BA%ADn_sinh_d%E1%BB%A5c_ph%E1%BB%A5_n%E1%BB%AF
+
+==> counts/counts_lang_hi.txt <==
+317	hi
+52	%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0
+16	%E0%A4%B8%E0%A5%8B%E0%A4%A8%E0%A5%80_%E0%A4%AA%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A4%B0%E0%A5%8D%E0%A4%B8_%E0%A4%87%E0%A4%82%E0%A4%9F%E0%A4%B0%E0%A4%9F%E0%A5%87%E0%A4%82%E0%A4%A8%E0%A5%8D%E0%A4%AE%E0%A5%87%E0%A4%82%E0%A4%9F
+15	%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%B0_%E0%A4%AA%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A4%B0%E0%A5%8D%E0%A4%B8
+13	%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A5%80_%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A4%A6%E0%A5%87%E0%A4%B5
+13	%E0%A4%8F%E0%A4%B5%E0%A5%87%E0%A4%82%E0%A4%95_%E0%A4%B2%E0%A5%8B%E0%A4%97
+12	%E0%A4%B0%E0%A5%87%E0%A4%A8%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%B0
+12	%E0%A4%A1%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%B8
+11	%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BF%E0%A4%9F%E0%A4%B2_%E0%A4%AE%E0%A5%80%E0%A4%A1%E0%A5%80%E0%A4%AF%E0%A4%BE_%E0%A4%B0%E0%A5%80%E0%A4%B8%E0%A5%80%E0%A4%B5%E0%A4%B0
+10	%E0%A4%8F%E0%A4%9A%E0%A4%AC%E0%A5%80%E0%A4%93
+
+==> counts/counts_lang_id.txt <==
+5988	id
+566	Halaman_Utama
+499	Pemerintahan_daerah_di_Indonesia
+70	Naga_(shio)
+56	Facebook
+41	Limbad
+31	Komputasi_awan
+29	Syi%27ah
+28	Tahun_baru
+26	TVXQ
+
+==> counts/counts_lang_sk.txt <==
+1046	sk
+438	Karel_Gott
+317	Michal_David
+276	Hlavn%C3%A1_str%C3%A1nka
+202	Helena_Vondr%C3%A1%C4%8Dkov%C3%A1
+76	PF
+57	Pour_f%C3%A9liciter
+45	Hana_Zagorov%C3%A1
+38	Petr_Muk
+29	Marie_Rottrov%C3%A1
+
+==> counts/counts_lang_ro.txt <==
+2277	ro
+446	Pagina_principal%C4%83
+117	Google
+105	Maia_Morgenstern
+99	Denisa
+91	Dida_Dr%C4%83gan
+87	2012
+73	Nicolae_Gu%C8%9B%C4%83
+65	Andra
+57	Anda_Adam
+
+==> counts/counts_lang_mr.txt <==
+18	mr
+11	%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0
+11	%E0%A4%95%E0%A4%BF%E0%A4%AE_%E0%A4%9C%E0%A4%BE%E0%A4%81%E0%A4%97-%E0%A4%87%E0%A4%B2
+9	%E0%A4%95%E0%A5%8B%E0%A4%AF%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A4%97%E0%A4%B0
+6	%E0%A4%B0%E0%A4%BE%E0%A4%AF%E0%A4%97%E0%A4%A1_(%E0%A4%95%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A4%BE)
+4	%E0%A4%A1%E0%A4%BF%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%AC%E0%A4%B0_%E0%A5%A7%E0%A5%A7
+4	%E0%A4%95%E0%A5%8B%E0%A4%AF%E0%A4%A8%E0%A4%BE_%E0%A4%A7%E0%A4%B0%E0%A4%A3
+4	%E0%A4%85%E0%A4%AE%E0%A5%87%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%A8_%E0%A4%A1%E0%A5%89%E0%A4%B2%E0%A4%B0
+3	%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%95_%E0%A4%A6%E0%A4%B0%E0%A4%A1%E0%A5%8B%E0%A4%88_%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%A8
+3	%E0%A4%AB%E0%A5%8D%E0%A4%B2%E0%A5%89%E0%A4%AA%E0%A5%80
+
+==> counts/counts_lang_hr.txt <==
+1053	hr
+195	Glavna_stranica
+190	Nova_godina
+181	Mila_Elegovi%C4%87
+127	Oliver_Dragojevi%C4%87
+112	Sini%C5%A1a_%C5%A0karica
+102	Zorica_Kond%C5%BEa
+91	Petar_Gra%C5%A1o
+75	Nina_Badri%C4%87
+74	Bitange_i_princeze
+
+==> counts/counts_lang_lt.txt <==
+804	lt
+217	Naujieji_Metai
+145	Pagrindinis_puslapis
+77	2012_m._pasaulio_pabaigos_prognoz%C4%97
+46	Laiko_juosta
+32	2012_m.
+18	Boney_M
+16	Pary%C5%BEius
+15	Maj%C5%B3_kalendorius
+14	Lady_GaGa
+
+==> counts/counts_lang_te.txt <==
+10	%E0%B0%AE%E0%B1%8A%E0%B0%A6%E0%B0%9F%E0%B0%BF_%E0%B0%AA%E0%B1%87%E0%B0%9C%E0%B1%80
+7	te
+5	%E0%B0%AE%E0%B1%81%E0%B0%97%E0%B1%8D%E0%B0%97%E0%B1%81
+4	%E0%B0%AA%E0%B1%88%E0%B0%A5%E0%B0%BE%E0%B0%A8%E0%B1%8D_(%E0%B0%95%E0%B0%82%E0%B0%AA%E0%B1%8D%E0%B0%AF%E0%B1%82%E0%B0%9F%E0%B0%B0%E0%B1%8D_%E0%B0%AD%E0%B0%BE%E0%B0%B7)
+4	%E0%B0%AA%E0%B0%82%E0%B0%9A%E0%B0%BE%E0%B0%82%E0%B0%97%E0%B0%82
+3	abbacy
+3	%E0%B0%B9%E0%B0%B8%E0%B1%8D%E0%B0%A4%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B0%AF%E0%B1%8B%E0%B0%97%E0%B0%82
+3	%E0%B0%B0%E0%B1%86%E0%B0%A1%E0%B1%8D%E0%B0%A1%E0%B0%BF
+3	%E0%B0%A8%E0%B0%97%E0%B1%8D%E0%B0%A8%E0%B0%A4%E0%B1%8D%E0%B0%B5%E0%B0%82
+3	%E0%B0%A8%E0%B0%95%E0%B1%8D%E0%B0%B7%E0%B0%A4%E0%B1%8D%E0%B0%B0%E0%B0%82
+
+==> counts/counts_lang_mk.txt <==
+35	mk
+31	%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
+9	1995_%D0%B2%D0%BE_%D1%84%D0%B8%D0%BB%D0%BC%D0%BE%D1%82
+9	%D0%9A%D0%B8%D0%BC_%D0%8F%D0%BE%D0%BD%D0%B3_%D0%98%D0%BB
+8	%D0%9A%D0%BB%D0%B8%D0%BC%D0%B5%D0%BD%D1%82_%D0%8F%D0%B5%D1%80%D0%BE%D0%B2
+5	%D0%92%D0%BB%D0%B0%D0%B4%D0%BE_%D0%88%D0%B0%D0%BD%D0%B5%D0%B2%D1%81%D0%BA%D0%B8
+4	%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D1%82%D0%B8_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8_%D0%94%D1%80%D0%B6%D0%B0%D0%B2%D0%B8
+4	%D0%9D%D0%BE%D0%B2%D0%B0_%D0%93%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0
+4	%D0%9A%D0%B0%D1%82%D0%B0%D1%80
+4	%D0%93%D0%BE%D1%86%D0%B5_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8
+
+==> counts/counts_lang_ml.txt <==
+39	ml
+16	%25E0%25B4%2585%25E0%25B4%25AC%25E0%25B5%258D%25E0%25B4%25AC%25E0%25B4%25BE%25E0%25B4%25B8%25E0%25B4%25BF_%25E0%25B4%2596%25E0%25B4%25BF%25E0%25B4%25B2%25E0%25B4%25BE%25E0%25B4%25AB%25E0%25B4%25A4%25E0%25B5%258D%25E0%25B4%25A4%25E0%25B5%258D
+14	%E0%B4%AA%E0%B5%8D%E0%B4%B0%E0%B4%A7%E0%B4%BE%E0%B4%A8_%E0%B4%A4%E0%B4%BE%E0%B5%BE
+9	%E0%B4%95%E0%B4%BF%E0%B4%82_%E0%B4%9C%E0%B5%8B%E0%B4%99%E0%B5%8D_%E0%B4%87%E0%B5%BD
+8	%E0%B4%86%E0%B4%95%E0%B4%BE%E0%B4%B6%E0%B4%B5%E0%B4%BE%E0%B4%A3%E0%B4%BF
+4	%E0%B4%A1%E0%B4%BF%E0%B4%B8%E0%B4%82%E0%B4%AC%E0%B5%BC_12
+3	%E0%B4%AE%E0%B4%A6%E0%B5%8D%E0%B4%AF%E0%B4%82
+3	%E0%B4%AE%E0%B4%A6%E0%B5%8D%E0%B4%A7%E0%B5%8D%E0%B4%AF%E0%B4%A7%E0%B4%B0%E0%B4%A3%E0%B5%8D%E0%B4%AF%E0%B4%BE%E0%B4%B4%E0%B4%BF
+3	%E0%B4%AE%E0%B4%A4%E0%B4%82
+3	%E0%B4%A1%E0%B4%BF%E0%B4%B8%E0%B4%82%E0%B4%AC%E0%B5%BC_11
+
+==> counts/counts_lang_et.txt <==
+542	et
+216	Anne_Veski
+187	Esileht
+110	Lady_Gaga
+33	Vanilla_Ninja
+29	Hendrik_Sal-Saller
+25	Marju_L%C3%A4nik
+21	Meeletu_(film)
+19	Bakuu
+18	Karl_Madis
+
+==> counts/counts_lang_commons.txt <==
+860	Main_Page
+270	api.php
+152	admin/sqlpatch.php/password_forgotten.php
+86	Penis
+70	null
+57	Portada
+55	Pagina_principale
+46	P%C3%A1gina_principal
+45	%C3%89douard-Henri_Avril
+44	Crystal_Clear
+
+==> counts/counts_lang_species.txt <==
+84	Main_Page
+21	P%C3%A1gina_principal
+15	Puccinia_persistens_var._milii-effusi
+12	Animalia
+8	admin/sqlpatch.php/password_forgotten.php
+8	Pericoptus_frontalis
+8	Apiales
+7	Pericoptus
+5	Search
+5	Insecta
+
+==> counts/counts_lang_bn.txt <==
+95	bn
+21	%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8_%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE
+8	%E0%A6%95%E0%A6%BF%E0%A6%AE_%E0%A6%9C%E0%A6%82_%E0%A6%87%E0%A6%B2
+5	%E0%A6%B8%E0%A6%AE%E0%A6%95%E0%A6%BE%E0%A6%AE%E0%A7%80
+4	%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%A1%E0%A7%87%E0%A6%A8_%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC
+4	%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%A8%E0%A6%BE_%E0%A6%9C%E0%A7%8B%E0%A6%B2%E0%A6%BF
+3	User
+3	%E0%A6%B6%E0%A7%87%E0%A6%96_%E0%A6%AE%E0%A7%81%E0%A6%9C%E0%A6%BF%E0%A6%AC%E0%A7%81%E0%A6%B0_%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8
+3	%E0%A6%AE%E0%A7%8B%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A6%B2_%E0%A6%AB%E0%A7%8B%E0%A6%A8
+3	%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%BE%E0%A6%B0
+
+==> counts/counts_lang_kk.txt <==
+47	kk
+29	%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82
+3	%D2%9A%D0%BE%D1%80%D2%93%D0%B0%D1%81%D1%8B%D0%BD
+3	%D0%96%D0%B5%D0%BB%D1%82%D0%BE%D2%9B%D1%81%D0%B0%D0%BD
+3	%D0%96%D0%B0%D2%A3%D0%B0%D3%A9%D0%B7%D0%B5%D0%BD_%D0%BE%D2%9B%D0%B8%D2%93%D0%B0%D1%81%D1%8B_(2011_%D0%B6%D1%8B%D0%BB)
+3	%D0%96%D0%B0%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F
+3	%D0%96%D0%B0%D0%B4%D1%8B%D1%81%D1%8B_%D0%B1%D0%B0%D1%80_%D1%88%D0%B5%D0%BA%D1%82%D1%96_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82
+3	%D0%96%D0%B0%D0%B1%D1%8B%D2%9B_%D1%85%D0%B0%D1%83%D1%8B%D0%B7
+3	%D0%94%D0%B0%D0%BD%D0%B8%D1%8F
+3	%D0%90%D0%BB%D0%BC%D0%B0%D1%82%D1%8B
+
+==> counts/counts_lang_ms.txt <==
+277	ms
+91	Laman_Utama
+12	Akta_Universiti_dan_Kolej_Universiti_1971
+10	Tahun_Baru_Cina
+10	Naga_(zodiak)
+9	Pasukan_Simpanan_Persekutuan
+9	Ombak_Rindu
+8	Kim_Jong-il
+7	Samy_Vellu
+7	Koir
+
+==> counts/counts_lang_simple.txt <==
+718	simple
+218	Main_Page
+137	admin/sqlpatch.php/password_forgotten.php
+53	WgPageName
+49	wgPageName
+49	World_War_I
+28	List_of_Disney_movies
+24	List_of_Greek_gods_and_goddesses
+22	List_of_Disney_animated_movies
+19	List_of_Norse_gods_and_goddesses
+
+==> counts/counts_lang_be.txt <==
+25	%D0%93%D0%B0%D0%BB%D0%BE%D1%9E%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%BD%D0%BA%D0%B0
+21	be
+8	%D0%9A%D1%96%D0%BC_%D0%A7%D1%8D%D0%BD_%D0%86%D1%80
+7	%D0%A1%D1%8F%D1%80%D0%B3%D0%B5%D0%B9_%D0%A8%D1%83%D0%BF%D0%B0
+5	%D0%A5%D0%B0%D0%BB%D1%96%D1%84%D0%B0%D1%82_%D0%90%D0%B1%D0%B0%D1%81%D1%96%D0%B4%D0%B0%D1%9E
+4	%D0%A1%D0%B0%D1%84%D1%96%D1%8F_%D0%A0%D0%B0%D1%82%D0%B0%D1%80%D1%83
+4	%D0%9C%D0%B0%D1%81%D1%82%D1%83%D1%80%D0%B1%D0%B0%D1%86%D1%8B%D1%8F
+4	%D0%9C%D0%94%D0%9B%D0%A3
+4	%D0%9B%D0%B5%D0%B9%D0%B4%D1%8D%D0%BD%D1%81%D0%BA%D1%96_%D1%9E%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D1%96%D1%82%D1%8D%D1%82
+4	%D0%94%D0%B7%D1%96%D0%BA%D0%B0%D0%B5_%D0%BF%D0%BE%D0%BB%D0%B5
+
+==> counts/counts_lang_sl.txt <==
+254	sl
+110	Glavna_stran
+50	Novo_leto
+46	Nu%C5%A1a_Derenda
+37	Oliver_Dragojevi%C4%87
+25	Rebeka_Dremelj
+19	Jasna_Kuljaj
+18	Grintavec
+17	Alfi_Nipi%C4%8D
+16	Darja_%C5%A0vajger
+
+==> counts/counts_lang_eo.txt <==
+278	eo
+26	Pensa_spaco
+16	3997_Tagao
+15	3996_Fugako
+14	%C4%88efpa%C4%9Do
+8	Kim_%C4%9Cong-il
+7	Brulmotoro
+6	User
+6	Listo_de_asteroidoj_(3001_-_4000)
+6	Historio_de_kristanismo
+
+==> counts/counts_lang_az.txt <==
+327	az
+204	setup.php
+46	Ana_S%C9%99hif%C9%99
+15	Abbasil%25C9%2599r
+12	Az%C9%99rbaycan_%C5%9Fair_v%C9%99_yaz%C4%B1%C3%A7%C4%B1lar%C4%B1
+9	Kim_%C3%87en_%C4%B0r
+9	1995-ci_il_filml%C9%99ri
+7	s%C4%B1%C4%9F%C4%B1r%C3%A7%C4%B1n
+6	Qeybulla_Qeybullayev
+6	Adil_Qas%C4%B1mov
+
+==> counts/counts_lang_be-x-old.txt <==
+42	be-x-old
+15	%D0%93%D0%B0%D0%BB%D0%BE%D1%9E%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%BD%D0%BA%D0%B0
+8	%D0%9A%D1%96%D0%BC_%D0%A7%D1%8D%D0%BD_%D0%86%D1%80
+4	%D0%A2%D1%83%D1%80%D0%B0%D1%9E%D1%81%D0%BA%D0%B0%D0%B5_%D0%AD%D0%B2%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D1%8C%D0%BB%D0%B5
+4	%D0%9F%D0%BB%D0%BE%D1%86%D0%B5%D0%B2%D1%8B_%D0%B0%D0%BA%D1%82
+4	%D0%86%D1%80%D0%BE%D0%BD%D1%96%D1%8F_%D0%BB%D1%91%D1%81%D1%83,_%D0%B0%D0%B1%D0%BE_%D0%97_%D0%BB%D1%91%D0%B3%D0%BA%D0%B0%D0%B9_%D0%BF%D0%B0%D1%80%D0%B0%D0%B9!
+3	Internetforum
+3	1910-%D1%8F
+3	11_%D1%81%D1%8C%D0%BD%D0%B5%D0%B6%D0%BD%D1%8F
+3	.fj
+
+==> counts/counts_lang_ne.txt <==
+21	%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF_%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0
+10	ne
+5	%E0%A4%A8%E0%A4%AF%E0%A4%BE%E0%A4%81_%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%B7
+3	%E0%A5%A9%E0%A5%A7_%E0%A4%A1%E0%A4%BF%E0%A4%B8%E0%A5%87%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%B0
+3	%E0%A5%A8%E0%A5%AA_%E0%A4%8F%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%B2
+3	%E0%A5%A7%E0%A5%AB_%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9A
+3	%E0%A5%A7%E0%A5%A7_%E0%A4%A1%E0%A4%BF%E0%A4%B8%E0%A5%87%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%B0
+3	%E0%A4%A1%E0%A4%BF%E0%A4%B8%E0%A5%87%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%B0
+2	Tuberculosis
+2	Solar_System
+
+==> counts/counts_lang_gl.txt <==
+131	gl
+49	Portada
+12	Alaska_(cantante)
+8	Kim_Jong-il
+8	Gl-bicicleta.ogg
+8	Anne_Igartiburu
+7	Xos%C3%A9_Ram%C3%B3n_Gayoso
+7	Laura_Pausini
+7	Arte_g%C3%B3tica
+5	Pablo_Albor%C3%A1n
+
+==> counts/counts_lang_en2.txt <==
+1	Zweibr%C3%BCcken
+1	Zvolen
+1	Zonnebeke
+1	Zolt%C3%A1n_Kov%C3%A1cs_(footballer_born_1984)
+1	Zola_Predosa
+1	Zion_(artist)
+1	Zierikzee
+1	Zevenaar
+1	Zero_Worship
+1	Zenyatta_Mondatta
+
+==> counts/counts_lang_kn.txt <==
+16	%E0%B2%AE%E0%B3%81%E0%B2%96%E0%B3%8D%E0%B2%AF_%E0%B2%AA%E0%B3%81%E0%B2%9F
+15	kn
+4	%E0%B2%B5%E0%B2%B8%E0%B2%BE%E0%B2%B9%E0%B2%A4%E0%B3%81
+3	%E0%B2%B0%E0%B2%BE%E0%B2%B9%E0%B3%81%E0%B2%B2%E0%B3%8D_%E0%B2%A6%E0%B3%8D%E0%B2%B0%E0%B2%BE%E0%B2%B5%E0%B2%BF%E0%B2%A1%E0%B3%8D
+3	%E0%B2%AA%E0%B3%8D%E0%B2%B0%E0%B2%AC%E0%B3%81%E0%B2%A6%E0%B3%8D%E0%B2%A7%E0%B2%95%E0%B2%B0%E0%B3%8D%E0%B2%A8%E0%B2%BE%E0%B2%9F%E0%B2%95_%E0%B2%AA%E0%B2%A4%E0%B3%8D%E0%B2%B0%E0%B2%BF%E0%B2%95%E0%B3%86
+3	%E0%B2%A1%E0%B2%BF%E0%B2%B8%E0%B3%86%E0%B2%82%E0%B2%AC%E0%B2%B0%E0%B3%8D_%E0%B3%AF
+3	%E0%B2%A1%E0%B2%BF%E0%B2%B8%E0%B3%86%E0%B2%82%E0%B2%AC%E0%B2%B0%E0%B3%8D
+3	%E0%B2%9C%E0%B3%86%E0%B2%AB%E0%B2%B0%E0%B3%8D%E0%B2%B8%E0%B2%A8%E0%B3%8D_%E0%B2%8F%E0%B2%B0%E0%B3%8D%E2%80%8D%E2%80%8D%E0%B2%AA%E0%B3%8D%E0%B2%B2%E0%B3%87%E0%B2%AF%E0%B3%8D%E0%B2%A8%E0%B3%8D
+3	%E0%B2%95%E0%B2%A8%E0%B3%8D%E0%B2%A8%E0%B2%A1_%E0%B2%B8%E0%B2%82%E0%B2%98
+2	sickness
+
+==> counts/counts_lang_new.txt <==
+6	new
+5	%E0%A4%AE%E0%A5%82_%E0%A4%AA%E0%A5%8C
+3	UTC+1
+3	%E0%A4%B8%E0%A4%A8%E0%A5%8D_%E0%A5%A8%E0%A5%A6%E0%A5%A7%E0%A5%A6
+3	%E0%A4%AA%E0%A5%83%E0%A4%A5%E0%A5%8D%E0%A4%B5%E0%A5%80
+3	%E0%A4%A1%E0%A4%BF%E0%A4%B8%E0%A5%87%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%B0_%E0%A5%A7%E0%A5%A7
+3	%E0%A4%A1%E0%A4%BF%E0%A4%B8%E0%A5%87%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%B0
+3	%E0%A4%9C%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%88_%E0%A5%A7%E0%A5%A8
+3	%E0%A4%88_%E0%A4%B8%E0%A4%82_%E0%A5%A7%E0%A5%AF%E0%A5%A6%E0%A5%AD
+3	%E0%A4%85%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B2_%E0%A5%A8%E0%A5%AD
+
+==> counts/counts_lang_sh.txt <==
+146	sh
+103	Dino_Merlin
+26	Glavna_stranica_/_%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
+21	Petar_Gra%C5%A1o
+17	Dragana_Mirkovi%C4%87
+13	Popis_vremenskih_zona
+13	Oliver_Dragojevi%C4%87
+10	Predrag_%C5%BDivkovi%C4%87_Tozovac
+10	Popis_pjeva%C4%8Da_narodnih_pjesama
+10	Hari_Mata_Hari
+
+==> counts/counts_lang_sq.txt <==
+141	sq
+25	Faqja_kryesore
+24	Shyhrete_Behluli
+21	Shkurte_Fejza
+14	Sa_t%C3%AB_deshta
+11	Mihrije_Braha
+9	1995_n%C3%AB_film
+8	Natyra
+8	Kim_Jong_Il
+7	Ilir%C3%ABt
+
+==> counts/counts_lang_meta.txt <==
+116	Main_Page
+75	List_of_Wikipedias
+72	Spam_blacklist
+31	Wikizine/EN2011-130
+27	Wikipedia
+22	Fundraising
+20	P%C3%A1gina_principal
+19	Fundraising_2011/Jimmy_Letter_002/es
+13	Wikimedia_Forum
+13	Title_blacklist
+
+==> counts/counts_lang_ur.txt <==
+42	ur
+16	%D8%B5%D9%81%D8%AD%DB%81_%D8%A7%D9%88%D9%84
+15	%25D8%25A8%25D9%2586%25D9%2588_%25D8%25B9%25D8%25A8%25D8%25A7%25D8%25B3
+6	%D9%84%D8%A7%DB%81%D9%88%D8%B1_%DA%A9%DB%8C_%D9%85%D8%B4%DB%81%D9%88%D8%B1_%D8%B4%D8%AE%D8%B5%DB%8C%D8%A7%D8%AA
+6	%D9%81%DB%81%D8%B1%D8%B3%D8%AA_%D8%B5%D8%AF%D8%B1_%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86
+4	31_%D8%AF%D8%B3%D9%85%D8%A8%D8%B1
+4	%D9%BE%D8%A7%D9%86%DB%8C
+4	%D9%85%D8%AD%D9%85%D8%AF_%D8%B1%D9%81%DB%8C%D9%82_%D8%AA%D8%A7%D8%B1%DA%91
+4	%D8%B3%D8%B1%D9%88%D8%B1%D9%82
+4	%D8%B0%D9%88%D8%A7%D9%84%D9%81%D9%82%D8%A7%D8%B1_%D8%B9%D9%84%DB%8C_%D8%A8%DA%BE%D9%B9%D9%88
+
+==> counts/counts_lang_hy.txt <==
+36	%D4%B3%D5%AC%D5%AD%D5%A1%D5%BE%D5%B8%D6%80_%D5%A7%D5%BB
+16	Hauptseite
+15	Wine
+15	Internet_banking
+11	hy
+9	%D4%B3%D5%AC%D5%AD%D5%A1%D5%BE%D5%B8%D6%80_%D4%B7%D5%BB
+8	%D4%BF%D5%AB%D5%B4_%D5%8B%D5%B8%D5%B6%D5%A3_%D4%BB%D5%AC
+8	%25D4%25B3%25D5%25AC%25D5%25AD%25D5%25A1%25D5%25BE%25D5%25B8%25D6%2580_%25D5%25A7%25D5%25BB
+6	%D4%B2%D5%B8%D5%AC%D5%B7%D5%B8%D5%B5_%D5%A9%D5%A1%D5%BF%D6%80%D5%B8%D5%B6
+5	%D4%BC%D5%A5%D5%BC%D5%A1%D5%B6_%D5%AC%D5%A1%D5%B6%D5%BB%D5%AB%D5%B6
+
+==> counts/counts_lang_eu.txt <==
+379	eu
+92	Azala
+36	Espainia
+28	Europar_Batasuna
+21	Kuba
+21	Frantzia
+19	wiki/w/index.php
+15	Portugal
+15	Ameriketako_Estatu_Batuak
+14	Finlandia
+
+==> counts/counts_lang_bpy.txt <==
+13	%E0%A6%AA%E0%A6%AF%E0%A6%BC%E0%A6%B2%E0%A6%BE_%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE
+5	bpy
+2	%E0%A6%AE%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A7%8B
+2	%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%BF_%E0%A7%A7%E0%A7%AF%E0%A7%AE%E0%A7%AE
+2	%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6
+2	%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0_%E0%A7%A9%E0%A7%A7
+2	%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0_%E0%A7%A7%E0%A7%AE
+2	%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0_%E0%A7%A7%E0%A7%A9
+2	%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0_%E0%A7%A7%E0%A7%A8
+2	%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0_%E0%A7%A7%E0%A7%A7
+
+==> counts/counts_lang_arz.txt <==
+92	arz
+60	%D9%85%D9%86%D9%89_%D8%A7%D9%84%D8%B3%D8%B9%D9%8A%D8%AF
+25	%D8%B3%D9%83%D8%B3
+22	%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D9%87_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D9%87
+9	%D9%87%D9%8A%D8%A7%D8%AA%D9%85
+9	%D8%AC%D9%85%D9%8A%D9%84%D8%A9_%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84
+9	%D8%A7%D8%B0%D9%8A%D8%B1%D8%A8%D8%A7%D9%8A%D8%AC%D8%A7%D9%86
+8	%D8%A7%D9%85%D9%8A%D9%86%D9%87_%D8%B1%D8%B2%D9%82
+7	%D9%85%D9%8A%D9%85%D9%89_%D8%AC%D9%85%D8%A7%D9%84
+7	%D8%B4%D8%AE%D8%B5%D9%8A%D8%A7%D8%AA_%D9%85%D8%B5%D8%B1%D9%8A%D9%87_%D9%85%D8%B4%D9%87%D9%88%D8%B1%D9%87
+
+==> counts/counts_lang_my.txt <==
+40	my
+36	%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC
+8	%E1%80%80%E1%80%84%E1%80%BA%E1%80%82%E1%80%BB%E1%80%AF%E1%80%B6%E1%80%A1%E1%80%AE
+3	%e1%80%97%e1%80%9f%e1%80%ad%e1%80%af%e1%80%85%e1%80%ac%e1%80%99%e1%80%bb%e1%80%80%e1%80%ba%e1%80%94%e1%80%be%e1%80%ac
+3	%E1%80%92%E1%80%AE%E1%80%87%E1%80%84%E1%80%BA%E1%80%98%E1%80%AC
+3	%E1%80%86%E1%80%B1%E1%80%B8%E1%80%95%E1%80%8A%E1%80%AC
+2	sickness
+2	Grandfather
+2	%E1%81%81%E1%81%89%E1%81%87%E1%81%85
+2	%E1%81%80
+
+==> counts/counts_lang_af.txt <==
+364	tuisblad
+309	setup.php
+167	af
+35	Tuisblad
+6	Wi-Fi_Protected_Access
+6	Nuwejaarsdag
+6	Nederlands
+5	November
+5	Middellandse_See
+5	Engels
+
+==> counts/counts_lang_tt.txt <==
+8	tt
+7	%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82
+4	31_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8C
+3	User
+3	Tatarstan_m%C3%A4d%C3%A4ni%C3%A4te
+3	RSFSR
+3	%D3%98%D0%B7%D0%B5%D1%80%D0%B8%D0%BB%D3%99%D1%80
+3	%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%BD%D0%B5%D0%B7%D0%B8%D1%8F_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2_%D0%A8%D1%82%D0%B0%D1%82%D0%BB%D0%B0%D1%80%D1%8B
+3	%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0
+2	Vakuum
+
+==> counts/counts_lang_lv.txt <==
+178	lv
+36	S%C4%81kumlapa
+15	Andris_%C4%92rglis
+14	Starptautisko_t%C4%81lsarunu_kodu_saraksts
+14	Labv%C4%93l%C4%ABgais_Tips
+14	2012._gads
+13	Alla_Puga%C4%8Dova
+12	Monako
+12	Bertraba_nunataks
+11	Latvija
+
+==> counts/counts_lang_pnb.txt <==
+14	%25D8%25AE%25D9%2584%25D8%25A7%25D9%2581%25D8%25AA_%25D8%25B9%25D8%25A8%25D8%25A7%25D8%25B3%25DB%258C%25DB%2581
+7	pnb
+5	%D9%BE%DB%81%D9%84%D8%A7_%D8%B5%D9%81%DB%81
+5	%D8%B2%DB%8C%D9%84%D9%88%D9%86%D8%A7_%DA%AF%D9%88%D8%B1%D8%A7
+4	%D9%84%D8%A7%D8%A6%DA%88%D9%86_%DB%8C%D9%88%D9%86%DB%8C%D9%88%D8%B1%D8%B3%D9%B9%DB%8C
+4	%D8%AF%D8%B3%D9%85%D8%A8%D8%B1
+3	Jazz
+3	1714
+3	%D9%84%D9%88%D8%AF%D8%B2
+3	%D8%AF%DB%8C%D8%B4%D8%A7%DA%BA_%D8%AF%DB%8C_%D8%B3%D9%88%DA%86%DB%8C
+
+==> counts/counts_lang_bs.txt <==
+224	bs
+118	Zorica_Kond%C5%BEa
+93	Dino_Merlin
+80	Nik%C5%A1a_Brato%C5%A1
+60	Mila_Elegovi%C4%87
+59	Danijela_Martinovi%C4%87
+53	Po%C4%8Detna_strana
+51	Lepa_Brena
+39	Neda_Ukraden
+37	Kemal_Monteno
+
+==> counts/counts_lang_zh-yue.txt <==
+21	%E9%A0%AD%E7%89%88
+8	zh-yue
+7	%E6%9D%8E%E9%80%A3%E6%9D%B0
+7	%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B
+6	%E5%9F%BA%E7%9D%A3%E6%95%99
+5	%E9%84%A7%E5%B0%8F%E5%B9%B3
+5	%E5%BC%B5%E5%9C%8B%E6%A6%AE
+4	911%E4%BA%8B%E4%BB%B6
+4	10000000000000000
+4	%E9%96%AA
+
+==> counts/counts_lang_nn.txt <==
+441	nn
+59	Hovudside
+36	Grevinnen_og_hovmesteren
+24	Nytt%C3%A5r
+14	William_Wallace
+14	Synonymordbok
+13	synonymordbok
+11	wca
+11	Wca
+10	Nytt%C3%A5rsforsett
+
+==> counts/counts_lang_gu.txt <==
+11	%E0%AA%AE%E0%AB%81%E0%AA%96%E0%AA%AA%E0%AB%83%E0%AA%B7%E0%AB%8D%E0%AA%A0
+9	gu
+5	%E0%AA%97%E0%AB%81%E0%AA%9C%E0%AA%B0%E0%AA%BE%E0%AA%A4
+4	%E0%AA%B5%E0%AA%A1
+4	%E0%AA%B5%E0%AA%82%E0%AA%A6%E0%AB%87_%E0%AA%AE%E0%AA%BE%E0%AA%A4%E0%AA%B0%E0%AA%AE%E0%AB%8D
+4	%E0%AA%AE%E0%AB%8B%E0%AA%B0
+4	%E0%AA%AD%E0%AA%BE%E0%AA%B0%E0%AA%A4%E0%AA%A8%E0%AB%8B_%E0%AA%B0%E0%AA%BE%E0%AA%B7%E0%AB%8D%E0%AA%9F%E0%AB%8D%E0%AA%B0%E0%AA%A7%E0%AB%8D%E0%AA%B5%E0%AA%9C
+4	%E0%AA%95%E0%AB%87%E0%AA%B0%E0%AB%80
+3	%E0%AA%B9%E0%AA%B8%E0%AB%8D%E0%AA%A4%E0%AA%AE%E0%AB%88%E0%AA%A5%E0%AB%81%E0%AA%A8
+3	%E0%AA%B0%E0%AA%BE%E0%AA%B7%E0%AB%8D%E0%AA%9F%E0%AB%8D%E0%AA%B0%E0%AB%80%E0%AA%AF_%E0%AA%AA%E0%AA%82%E0%AA%9A%E0%AA%BE%E0%AA%82%E0%AA%97
+
+==> counts/counts_lang_sah.txt <==
+8	%D0%A1%D2%AF%D1%80%D2%AF%D0%BD_%D1%81%D0%B8%D1%80%D1%8D%D0%B9
+6	sah
+4	%D0%90%D0%B2%D0%B0%D0%B0%D1%80_%D1%82%D1%8B%D0%BB%D0%B0
+3	%D0%A2%D0%BE%D1%85%D1%81%D1%83%D0%BD%D0%BD%D1%8C%D1%83_19
+3	%D0%A2%D0%BE%D1%85%D1%81%D1%83%D0%BD%D0%BD%D1%8C%D1%83_17
+3	%D0%A1%D1%8D%D1%82%D0%B8%D0%BD%D0%BD%D1%8C%D0%B8_22
+3	%D0%9E%D2%95%D0%BE
+3	%D0%9E%D1%82_%D1%8B%D0%B9%D1%8B%D0%BD_15
+3	%D0%9E%D0%BB%D1%83%D0%BD%D0%BD%D1%8C%D1%83_10
+3	%D0%9C%D1%83%D1%83%D1%81_%D1%83%D1%81%D1%82%D0%B0%D1%80_6
+
+==> counts/counts_lang_br.txt <==
+88	br
+23	Degemer
+9	Kim_Jong-il
+6	Abbasided
+5	Lammo%C3%B9-dour_ar_bed
+4	User
+4	Italia
+4	An_Oriant
+4	31_Kerzu
+4	1887
+
+==> counts/counts_lang_incubator.txt <==
+173	W/www
+3	Wp/sli
+3	Wn/mn
+3	Wb/ss
+3	Wb/sc
+3	Wb/rw
+3	User
+2	Wt/se
+2	Wt/diq
+2	Wq/lv
+
+==> counts/counts_lang_jp.txt <==
+13	jp
+5	1%E6%9C%881%E6%97%A5
+2	Yoshiuki_Takada
+2	%E6%97%A5%E6%9C%AC%E5%8F%B7
+2	%E5%BE%A1%E6%89%8B%E6%9D%B5
+1	九大フィルハーモニー・オーケストラ
+1	ラリーのミッドライフ★クライシス
+1	ロベルト・デ・アシス・モレイラ
+1	ジョセフ・ジェームズ・ジュニア
+1	ドレスデン国立歌劇場管弦楽団
+
+==> counts/counts_lang_tl.txt <==
+28	Unang_Pahina
+25	tl
+9	Hentai
+6	Maria_Ozawa
+5	Ikalawang_Digmaang_Pandaigdig
+5	Claudia_Zobel
+5	2012
+4	Disyembre
+4	Dinamarka
+4	120px-Flag_of_the_People%27s_Republic_of_China.svg.png
+
+==> counts/counts_lang_oc.txt <==
+38	oc
+14	Acu%C3%A8lh
+8	Kim_Jong-il
+4	puntar
+4	Sant_Tropetz
+4	Quim_Monz%C3%B3
+4	Puntar
+3	Tula
+3	Theo_Angelopoulos
+3	Saint-Georges-sur-Eure
+
+==> counts/counts_lang_la.txt <==
+164	la
+57	Pagina_prima
+12	index.php
+10	Index.php
+8	Mathematica
+8	Gim_Jeong-il
+5	Carolus_Magnus
+4	Google
+4	Franci
+4	December
+
+==> counts/counts_lang_yi.txt <==
+9	yi
+9	%D7%94%D7%95%D7%99%D7%A4%D7%98_%D7%96%D7%99%D7%99%D7%98
+6	%D7%99%D7%A2%D7%95%D7%95%D7%92%D7%A2%D7%A0%D7%99_%D7%A7%D7%99%D7%A1%D7%99%D7%9F
+4	%D7%A9%D7%A4%D7%99%D7%9C
+3	31%D7%A1%D7%98%D7%9F_%D7%93%D7%A2%D7%A6%D7%A2%D7%9E%D7%91%D7%A2%D7%A8
+3	%D7%9E%D7%A0%D7%A9%D7%94_%D7%9C%D7%95%D7%A1%D7%98%D7%99%D7%92
+3	%D7%93%D7%A2%D7%A6%D7%A2%D7%9E%D7%91%D7%A2%D7%A8
+2	Main_Page
+2	Function.mysql-connect
+2	9%D7%98%D7%9F_%D7%93%D7%A2%D7%A6%D7%A2%D7%9E%D7%91%D7%A2%D7%A8
+
+==> counts/counts_lang_mn.txt <==
+11	%D0%9D%D2%AF%D2%AF%D1%80_%D1%85%D1%83%D1%83%D0%B4%D0%B0%D1%81
+5	mn
+3	12_%D1%81%D0%B0%D1%80%D1%8B%D0%BD_31
+3	%D0%9F%D0%BB%D0%B0%D1%82%D0%BE%D0%BD
+3	%D0%91%D0%B0%D0%BD%D0%B3%D0%BB%D0%B0%D0%B4%D0%B5%D1%88
+2	c
+2	4_%D1%81%D0%B0%D1%80%D1%8B%D0%BD_6
+2	12_%D1%81%D0%B0%D1%80%D1%8B%D0%BD_7
+2	12_%D1%81%D0%B0%D1%80%D1%8B%D0%BD_6
+2	12_%D1%81%D0%B0%D1%80%D1%8B%D0%BD_18
+
+==> counts/counts_lang_zh-min-nan.txt <==
+10	zh-min-nan
+6	Th%C3%A2u-ia%CC%8Dh
+4	Leiden_T%C4%81i-ha%CC%8Dk
+4	1797_N%C3%AE
+4	12_goe%CC%8Dh_31_ji%CC%8Dt
+3	Sim-ch%C5%8Dng
+3	San_Marino
+3	Samoa
+3	Hollywood
+3	Bulgariya
+
+==> counts/counts_lang_is.txt <==
+38	is
+27	N%C3%BA_%C3%A1ri%C3%B0_er_li%C3%B0i%C3%B0_%C3%AD_aldanna_skaut
+11	Fors%C3%AD%C3%B0a
+8	Kim_Jong-il
+7	Trompet
+5	Landb%C3%BAna%C3%B0arh%C3%A1sk%C3%B3linn_a%C3%B0_%C3%81si
+4	GusGus
+4	Gullfoss_(skip,_1950)
+4	Gaml%C3%A1rskv%C3%B6ld
+4	G%C3%ADsli_R%C3%BAnar_J%C3%B3nsson
+
+==> counts/counts_lang_am.txt <==
+58	am
+18	%E1%8B%8B%E1%8A%93%E1%8B%8D_%E1%8C%88%E1%8C%BD
+14	%25E1%258A%25A0%25E1%2589%25A3%25E1%2588%25B2%25E1%258B%25B6%25E1%2589%25BD
+5	%E1%88%9E%E1%8A%93_%E1%88%8A%E1%8B%9B
+4	%E1%8A%A0%E1%8B%B2%E1%88%B5_%E1%8A%A0%E1%89%A0%E1%89%A3
+3	2012_%E1%8A%A5.%E1%8A%A4.%E1%8A%A0.
+3	%E1%8D%8A%E1%88%8D%E1%88%9D
+3	%E1%8C%A3%E1%88%8A%E1%8B%AB%E1%8A%95%E1%8A%9B
+3	%E1%8C%80%E1%88%AD%E1%88%98%E1%8A%95%E1%8A%9B
+3	%E1%8C%80%E1%88%AD%E1%88%98%E1%8A%95
+
+==> counts/counts_lang_vo.txt <==
+28	Cifapad
+5	vo
+5	Sloatsburg
+4	Yutop_(Dokan_Kim)
+4	Slocomb
+4	Slobozia_M%C3%A2ndra
+4	Dekul
+3	User
+3	Dekul_31
+3	Dekul_12
+
+==> counts/counts_lang_su.txt <==
+23	su
+14	Tepas
+6	Main_Page
+3	Pangaweruh
+3	Logo_Sundapedia_2011.jpg
+3	Kongkorongok_hayam_dua_kali
+3	D%C3%A9s%C3%A9mber
+3	Basa_Sunda
+3	Basa_Inggris
+3	31_D%C3%A9s%C3%A9mber
+
+==> counts/counts_lang_fy.txt <==
+27	Haadside
+18	fy
+8	1991
+6	Hurdegaryp
+5	Desimber
+5	De_F%C3%BBke
+5	31_desimber
+4	W%C3%A2ldrockfestival
+4	Universiteit_Leien
+4	Reboelje
+
+==> counts/counts_lang_ckb.txt <==
+18	%D8%AF%DB%95%D8%B3%D8%AA%D9%BE%DB%8E%DA%A9
+11	ckb
+7	%DA%A9%D8%B1%D9%85%D8%A7%D8%B4%D8%A7%D9%86
+6	%D8%A6%DB%8E%D9%88%D8%A7%D8%B1%DB%95%DB%8C_%D9%BE%DB%95%D8%B1%D9%88%D8%A7%D9%86%DB%95
+4	%D8%B3%DB%95%D8%AD%DB%8C%D8%AD%DB%8C_%D8%A8%D9%88%D8%AE%D8%A7%D8%B1%DB%8C
+3	%DA%A9%D8%A7%D9%86%D9%88%D9%88%D9%86%DB%8C_%DB%8C%DB%95%DA%A9%DB%95%D9%85
+3	%D9%A1%D9%A1%DB%8C_%DA%A9%D8%A7%D9%86%D9%88%D9%88%D9%86%DB%8C_%DB%8C%DB%95%DA%A9%DB%95%D9%85
+3	%D9%85%D9%88%D8%AD%DB%95%D9%85%D9%85%DB%95%D8%AF
+3	%D9%82%DB%95%D8%B2%D8%A7%DA%A9%D8%A7%D9%86%DB%8C_%DA%BE%DB%95%D8%B1%DB%8E%D9%85%DB%8C_%DA%A9%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86
+3	%D8%B3%DB%8C%D8%A7%D8%B3%DB%95%D8%AA%DB%8C_%D8%AA%D8%A7%DB%8C%D8%A8%DB%95%D8%AA%DB%8E%D8%AA%DB%8C
+
+==> counts/counts_lang_sa.txt <==
+5	%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AE%E0%A5%8D
+3	sa
+3	User
+3	Information_icon.svg
+2	Main_Page
+2	%E0%A5%A7%E0%A5%AE%E0%A5%AA%E0%A5%A7
+2	%E0%A5%A7%E0%A5%AC%E0%A5%A6%E0%A5%AE
+2	%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%97%E0%A4%A4%E0%A4%AE%E0%A5%8D
+2	%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A5%84%E0%A4%A4%E0%A4%BF
+2	%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%AB
+
+==> counts/counts_lang_mg.txt <==
+7	WVlKIAEdKP
+5	mg
+4	Fandraisana
+4	Desambra
+3	Windows
+3	Poeta
+3	Eoropa_Afovoany
+3	Baolina_kitra
+3	1_000_000
+3	14_Oktobra
+
+==> counts/counts_lang_km.txt <==
+28	km
+15	%E1%9E%91%E1%9F%86%E1%9E%96%E1%9F%90%E1%9E%9A%E1%9E%8A%E1%9E%BE%E1%9E%98
+4	%E1%9E%81%E1%9F%82%E2%80%8B%E1%9E%92%E1%9F%92%E1%9E%93%E1%9E%BC
+3	%E1%9E%9C%E1%9E%B8%E1%9E%99%E1%9F%84%E1%9E%A1%E1%9E%BB%E1%9E%84
+3	%E1%9E%94%E1%9E%91%E1%9E%96%E1%9F%92%E1%9E%9A%E1%9E%A0%E1%9F%92%E1%9E%98%E1%9E%82%E1%9E%B8%E1%9E%8F%E1%9E%B7
+3	%E1%9E%94%E1%9E%91%E1%9E%80%E1%9E%B6%E1%9E%80%E1%9E%82%E1%9E%8F%E1%9E%B7
+3	%E1%9E%90%E1%9F%92%E1%9E%84%E1%9F%83%E1%9E%91%E1%9E%B8%E1%9F%A3%E1%9F%A1%E1%9E%81%E1%9F%82%E1%9E%92%E1%9F%92%E1%9E%93%E1%9E%BC
+2	Yahoo!
+2	Freitag
+2	.kh
+
+==> counts/counts_lang_si.txt <==
+4	%E0%B6%B8%E0%B7%94%E0%B6%BD%E0%B7%8A_%E0%B6%B4%E0%B7%92%E0%B6%A7%E0%B7%94%E0%B7%80
+3	%E0%B7%83%E0%B7%8F%E0%B6%B1%E0%B7%8A%E0%B6%AD%E0%B7%94%E0%B7%80%E0%B6%BB%E0%B7%94%E0%B6%B1%E0%B7%8A
+3	%E0%B6%9C%E0%B7%9C%E0%B6%A9%E0%B6%B6%E0%B7%92%E0%B6%B8
+2	si
+2	c
+2	2012
+2	%E0%B7%84%E0%B7%92%E0%B6%B8%E0%B7%8F%E0%B6%BD%E0%B6%BA
+2	%E0%B7%81%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%93_%E0%B6%BD%E0%B6%82%E0%B6%9A%E0%B7%8F_%E0%B6%9A%E0%B7%9C%E0%B6%A7%E0%B7%92%E0%B6%BA%E0%B7%8F
+2	%E0%B7%80%E0%B7%92%E0%B6%9A%E0%B7%92%E0%B6%B4%E0%B7%93%E0%B6%A9%E0%B7%92%E0%B6%BA%E0%B7%8F
+2	%E0%B6%B4%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B6%9C%E0%B6%AD%E0%B7%92_%E0%B7%80%E0%B7%92%E0%B6%AF%E0%B7%8A%E2%80%8D%E0%B6%BA%E0%B7%8F%E0%B7%80
+
+==> counts/counts_lang_cv.txt <==
+20	cv
+8	%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
+3	%D0%A0%D0%B0%D1%88%D1%82%D0%B0%D0%B2,_10
+2	User
+2	1665
+2	%D0%AF%D0%BA%D1%83%D1%82%D0%B8
+2	%D0%AE%D1%80%D0%BF%D0%B8%D0%BA%D0%B5
+2	%D0%A7%D3%B3%D0%BA,_29
+2	%D0%A7%C4%83%D0%B2%D0%B0%D1%88_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8
+2	%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC_%D0%A1%D0%B0%D1%80%D0%BE%D1%8F%D0%BD
+
+==> counts/counts_lang_mzn.txt <==
+8	%DA%AF%D8%AA_%D9%88%D9%84%DA%AF
+3	mzn
+3	%DA%86%DA%86%D9%86
+3	%D9%88%DB%8C%D9%86
+3	%D9%85%D8%B3%DB%8C%D8%AD%DB%8C_%D8%AF%DB%8C%D9%86
+3	%D9%85%D8%AF%DB%8C%D8%AA%D8%B1%D8%A7%D9%86%D9%87_%D8%AF%D8%B1%DB%8C%D8%A7
+3	%D9%82%D9%88%D8%B1%D8%A2%D9%86
+3	%D8%A8%D9%88%D8%AA%D8%B3%D9%88%D8%A7%D9%86%D8%A7
+2	2009
+2	2005
+
+==> counts/counts_lang_io.txt <==
+13	io
+8	Frontispico
+4	Slocomb,_Alabama
+3	amikala
+3	abmagern
+3	Walsana
+3	Tunizia
+3	Slovakia
+3	Roma
+3	Francia
+
+==> counts/counts_lang_ps.txt <==
+10	%D9%84%D9%88%D9%85%DA%93%DB%8C_%D9%85%D8%AE
+8	ps
+8	%DA%A9%D9%8A%D9%85_%D8%AC%D9%88%D9%86%DA%AB_%D8%A7%D9%8A%D9%84
+4	%D8%AF_%D9%84%D9%88%DA%AB%D8%B1_%D9%88%D9%84%D8%A7%D9%8A%D8%AA
+3	%D8%AF_%D8%A8%D8%BA%D9%84%D8%A7%D9%86_%D9%88%D9%84%D8%A7%D9%8A%D8%AA
+3	%D8%A7%D8%B1%D9%88%D9%BE%D8%A7
+2	Blaise_Pascal
+2	Abruzzo
+2	%DB%B1_%D8%BA%D9%88%D9%8A%DB%8C
+2	%D9%BE%D8%A7%D8%B1%D9%84%D9%85%D8%A7%D9%86%D9%8A_%D8%AD%DA%A9%D9%88%D9%85%D8%AA
+
+==> counts/counts_lang_os.txt <==
+13	%D0%A1%C3%A6%D0%B9%D1%80%D0%B0%D0%B3_%D1%84%D0%B0%D1%80%D1%81
+5	%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
+3	31_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8B
+3	%D0%94%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8C
+2	Xabar
+2	Vkontakte.ru
+2	3_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8B
+2	27_%D0%BC%D0%B0%D1%80%D1%82%D1%8A%D0%B8%D0%B9%D1%8B
+2	1938-%C3%A6%D0%BC_%D0%B0%D0%B7
+2	12_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8B
+
+==> counts/counts_lang_dv.txt <==
+8	%DE%89%DE%A6%DE%87%DE%A8_%DE%9E%DE%A6%DE%8A%DE%B0%DE%99%DE%A7
+5	dv
+4	%DE%91%DE%A8%DE%90%DE%AC%DE%89%DE%B0%DE%84%DE%A6%DE%83%DE%AA_13
+4	%DE%91%DE%A8%DE%90%DE%AC%DE%89%DE%B0%DE%84%DE%A6%DE%83%DE%AA_10
+3	South_Col
+3	%DE%96%DE%AB%DE%82%DE%B0_18
+3	%DE%91%DE%AC%DE%82%DE%B0%DE%89%DE%A7%DE%86%DE%AA
+3	%DE%91%DE%A8%DE%90%DE%AC%DE%89%DE%B0%DE%84%DE%A6%DE%83%DE%AA_12
+3	%DE%91%DE%A8%DE%90%DE%AC%DE%89%DE%B0%DE%84%DE%A6%DE%83%DE%AA_11
+3	%DE%91%DE%A8%DE%90%DE%AC%DE%89%DE%B0%DE%84%DE%A6%DE%83%DE%AA
+
+==> counts/counts_lang_an.txt <==
+160	an
+103	setup.php
+10	Portalada
+9	Kim_Jong-Il
+6	/index.php
+4	Macau
+3	pcre
+3	User
+3	Trompeta
+3	Peito
+
+==> counts/counts_lang_lb.txt <==
+25	lb
+20	Haapts%C3%A4it
+9	Luxusbuerg
+9	Kim_Jong-il
+6	luxusbuerg
+4	Universit%C3%A9it_Leiden
+4	L%C3%ABtzebuergesch
+4	11._Dezember
+3	User
+3	Sexualit%C3%A9it
+
+==> counts/counts_lang_ga.txt <==
+53	ga
+27	Pr%C3%ADomhleathanach
+7	An_t-%C3%93b
+6	Lochlannaigh
+4	Stac_L%C3%AD
+4	Roghadal
+4	Main_Page
+4	Ceanada
+4	Baile_%C3%81tha_Cliath
+4	An_Ostair
+
+==> counts/counts_lang_yo.txt <==
+27	yo
+9	Oj%C3%BAew%C3%A9_%C3%80k%E1%BB%8D%CC%81k%E1%BB%8D%CC%81
+4	%C3%80r%C3%ADw%C3%A1_Am%E1%BA%B9%CC%81r%C3%ADk%C3%A0
+3	O%E1%B9%A3%C3%B9_Kej%C3%ACl%C3%A1
+3	31_December
+3	1850
+2	Yuan_T._Lee
+2	William_Shakespeare
+2	William_Faulkner
+2	Whirlpool_(cryptography)
+
+==> counts/counts_lang_fo.txt <==
+23	fo
+15	Fors%C3%AD%C3%B0a
+5	Irak
+4	Desember
+3	Taoisma
+3	Olympiskir_leikir
+3	Noreg
+3	Lundi
+3	DJ
+3	Cleveland
+
+==> counts/counts_lang_qu.txt <==
+16	qu
+13	Qhapaq_p%27anqa
+3	Qhapaq_raymi_killa
+3	Kuska_distritu
+3	31_%C3%B1iqin_qhapaq_raymi_killapi
+3	11_%C3%B1iqin_qhapaq_raymi_killapi
+2	index.php
+2	Wallqanqa_sanancha
+2	Uyariy
+2	Uman
+
+==> counts/counts_lang_sw.txt <==
+44	sw
+16	Mwanzo
+9	Louvre
+8	Leonardo_da_Vinci
+6	Kwenye
+5	Kars
+5	Karibu_kwenye
+4	Mayo
+3	aibu
+3	Your
+
+==> counts/counts_lang_bo.txt <==
+14	bo
+6	%E0%BD%82%E0%BD%99%E0%BD%BC%E0%BC%8B%E0%BD%84%E0%BD%BC%E0%BD%A6%E0%BC%8D
+3	User
+3	%E0%BD%A8%E0%BD%BA%E0%BC%8B%E0%BD%A4%E0%BD%BA%E0%BC%8B%E0%BD%A1%E0%BC%8D
+3	%E0%BD%A8%E0%BD%A2%E0%BC%8B%E0%BD%98%E0%BD%BA%E0%BC%8B%E0%BD%93%E0%BD%B2%E0%BC%8B%E0%BD%A1%E0%BC%8D
+3	%E0%BD%9D%E0%BD%BA%E0%BC%8B%E0%BD%93%E0%BD%BA%E0%BC%8B%E0%BD%9F%E0%BD%B4%E0%BD%A0%E0%BD%BA%E0%BC%8B%E0%BD%A3%E0%BC%8D
+2	Main_Page
+2	%E0%BD%A6%E0%BE%A8%E0%BD%93%E0%BC%8D
+2	%E0%BD%A3%E0%BD%B2%E0%BC%8B%E0%BD%90%E0%BD%B4%E0%BC%8B%E0%BD%A8%E0%BD%BA%E0%BC%8B%E0%BD%93%E0%BD%B2%E0%BC%8B%E0%BD%A1%E0%BC%8D
+2	%E0%BD%A2%E0%BE%A1%E0%BD%BC%E0%BC%8B%E0%BD%86%E0%BD%A6%E0%BC%8B%E0%BD%A6%E0%BE%A4%E0%BE%B1%E0%BD%BC%E0%BD%91%E0%BC%8B%E0%BD%94%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%91%E0%BD%B4%E0%BD%A6%E0%BC%8B%E0%BD%A2%E0%BD%96%E0%BD%A6%E0%BC%8D
+
+==> counts/counts_lang_pa.txt <==
+8	%E0%A8%AC%E0%A8%BE%E0%A8%AC%E0%A8%BE_%E0%A8%AC%E0%A9%81%E0%A9%B1%E0%A8%A2%E0%A8%BE_%E0%A8%9C%E0%A9%80
+7	%E0%A8%AE%E0%A9%81%E0%A9%B1%E0%A8%96_%E0%A8%AA%E0%A9%B0%E0%A8%A8%E0%A8%BE
+4	%E0%A8%97%E0%A9%81%E0%A8%B0%E0%A9%82_%E0%A8%97%E0%A9%8B%E0%A8%AC%E0%A8%BF%E0%A9%B0%E0%A8%A6_%E0%A8%B8%E0%A8%BF%E0%A9%B0%E0%A8%98_%E0%A8%9C%E0%A9%80
+3	pa
+3	%E0%A9%A9%E0%A9%A7_%E0%A8%A6%E0%A8%B8%E0%A9%B0%E0%A8%AC%E0%A8%B0
+3	%E0%A8%B8%E0%A8%BF%E0%A9%B1%E0%A8%96%E0%A9%80
+3	%E0%A8%B0%E0%A8%A3%E0%A8%9C%E0%A9%80%E0%A8%A4_%E0%A8%B8%E0%A8%BF%E0%A9%B0%E0%A8%98
+3	%E0%A8%A6%E0%A8%B8%E0%A9%B0%E0%A8%AC%E0%A8%B0
+2	Main_Page
+2	%E0%A9%AF_%E0%A8%A6%E0%A8%B8%E0%A9%B0%E0%A8%AC%E0%A8%B0
+
+==> counts/counts_lang_cy.txt <==
+42	cy
+20	Hafan
+9	Dinas_Basing
+8	Kim_Jong-il
+7	Cyfieithiadau_i&
+6	Gawd
+4	31_Rhagfyr
+3	User
+3	T%C5%B7%27r_Cyffredin_(Y_Deyrnas_Unedig)
+3	Rhestr_prifddinasoedd_cenedlaethol
+
+==> counts/counts_lang_jv.txt <==
+42	jv
+9	Kaca_Utami
+5	Kaca_Utama
+4	Universitas_Leiden
+3	Tetanduran_ngembang
+3	Kantung_Empedu
+3	Kal%C3%A8ndher_kedad%C3%A9an
+3	Euro
+3	Desember
+2	Yesuit
+
+==> counts/counts_lang_glk.txt <==
+5	glk
+5	%DA%AF%D8%AA_%D9%88%D9%84%DA%AF
+3	%DA%86%D9%88%D8%A8%D8%B1
+1	کاسپی‌ئن
+1	مازندران
+1	دوسالده
+1	گلستان
+1	بابلسر
+1	آستارا
+1	چالوس
+
+==> counts/counts_lang_ku.txt <==
+25	Destp%C3%AAk
+11	ku
+9	Stan
+9	Kim_Jong-il
+5	Kuhan
+4	Zozan
+4	Nav%C3%A7iya
+4	Berfanbar
+4	10%27%C3%AA_berfanbar%C3%AA
+4	%C5%9Eemz%C3%AEnan
+
+==> counts/counts_lang_nds.txt <==
+10	nds
+8	Kim_Jong-il
+6	Ghana
+4	Silvester
+4	31._Dezember
+3	User
+3	Minnesota
+3	H%C3%B6%C3%B6ftsiet
+3	Dezember
+3	9._Oktober
+
+==> counts/counts_lang_ug.txt <==
+6	ug
+5	%D9%84%DB%90%D9%8A%D8%AF%DB%90%D9%86_%D8%A6%DB%87%D9%86%D9%89%DB%8B%DB%90%D8%B1%D8%B3%D8%AA%DB%90%D8%AA%D9%89
+4	%D8%A6%DB%87%D9%8A%D8%BA%DB%87%D8%B1%DA%86%DB%95_%DB%8B%D9%89%D9%83%D9%89%D9%BE%D9%89%D8%AF%D9%89%D9%8A%DB%95
+2	Watikan_Shehiri
+2	Kolorado_Shitati
+2	Hazirkhi_Wakhalar
+2	Arkanzas_Shtati
+2	%DA%BE%D9%88%D8%B1_%D9%85%D8%A7%D8%B4%D9%89%D9%86%D9%89%D8%B3%D9%89
+2	%D9%BE%D8%A7%D8%B4%D8%AA%D9%88%DA%86%DB%95
+2	%D9%8A%DB%88%D8%B1%DB%95%D9%83
+
+==> counts/counts_lang_gan.txt <==
+10	%E9%87%91%E6%AD%A3%E6%97%A5
+7	gan
+6	%E5%B0%81%E9%9D%A2
+4	%E8%80%B6%E7%A9%8C
+3	12%E6%9C%888%E8%99%9F
+3	12%E6%9C%8831%E8%99%9F
+3	12%E6%9C%8813%E8%99%9F
+3	%E9%A6%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E7%BE%A9
+3	%E9%A6%99%E8%95%89
+3	%E9%9B%BB%E9%83%B5
+
+==> counts/counts_lang_zh-classical.txt <==
+4	%E7%B2%B5%E8%AA%9E
+4	%E4%B8%80%E4%B9%9D%E5%85%AB%E4%B9%9D%E5%B9%B4
+3	%E8%8B%B1%E6%A0%BC%E8%98%AD
+3	%E5%8D%97%E6%B5%B7
+2	Template%3A%E4%BA%9E%E6%B4%B2
+2	%E9%BC%A0%E6%A8%99
+2	%E9%A6%AC%E9%9B%85
+2	%E9%99%B0%E9%99%BD%E4%BA%94%E8%A1%8C
+2	%E9%88%BE
+2	%E8%B2%9D%E5%A4%9A%E8%8A%AC
+
+==> counts/counts_lang_gd.txt <==
+8	gd
+6	Pr%C3%AComh-Dhuilleag
+5	An_t-%C3%92b
+3	Immanuel_Kant
+3	Gaelic_Language
+3	D%C3%A0irich
+3	An_D%C3%B9bhlachd
+3	1917
+3	10_an_D%C3%B9bhlachd
+2	chsearch.php
+
+==> counts/counts_lang_cz.txt <==
+2	cz
+2	Zichov
+2	Xanthippos
+2	Wuppertal
+2	Windows_Genuine_Advantage
+2	Windhoek
+2	Willie_Aames
+2	Widget
+2	Trypsin
+2	Triely
+
+==> counts/counts_lang_kv.txt <==
+11	kv
+4	13_%D3%A7%D1%88%D1%8B%D0%BC
+4	%D3%A6%D1%88%D1%8B%D0%BC_%D1%82%D3%A7%D0%BB%D1%8B%D1%81%D1%8C
+3	5_%D1%83%D1%80%D0%B0%D1%81%D1%8C%D3%A7%D0%BC
+3	30_%D3%A7%D1%88%D1%8B%D0%BC
+3	19_%D0%BA%D3%A7%D1%87
+3	10_%D3%A7%D1%88%D1%8B%D0%BC
+2	8_%D3%A7%D1%88%D1%8B%D0%BC
+2	8_%D0%B2%D3%A7%D0%BB%D1%8C%D0%B3%D1%8B%D0%BC
+2	7_%D3%A7%D1%88%D1%8B%D0%BC
+
+==> counts/counts_lang_ast.txt <==
+30	ast
+17	Portada
+8	Kim_Yong_Il
+6	YouTube
+4	Bosnia_y_Herzegovina
+4	Avientu
+3	Xap%C3%B3n
+3	User
+3	Pa%C3%ADs
+3	Escultura
+
+==> counts/counts_lang_mhr.txt <==
+8	mhr
+4	31_%D0%A2%D0%B5%D0%BB%D0%B5
+3	%D0%A7%D0%B5%D1%82%D0%BA%D0%B0%D1%80%D0%B5%D0%B2,_%D0%9A%D1%81%D0%B5%D0%BD%D0%BE%D1%84%D0%BE%D0%BD%D1%82_%D0%90%D1%80%D1%85%D0%B8%D0%BF%D0%BE%D0%B2%D0%B8%D1%87
+3	%D0%A2%D3%B1%D2%A5_%D0%BB%D0%B0%D1%88%D1%82%D1%8B%D0%BA
+3	%D0%A2%D0%B5%D0%BB%D0%B5
+2	XVIII_%D0%BA%D1%83%D1%80%D1%8B%D0%BC
+2	9_%D0%9A%D1%8B%D0%BB%D0%BC%D0%B5
+2	6_%D0%90%D0%B3%D0%B0
+2	30_%D0%9A%D1%8B%D0%BB%D0%BC%D0%B5
+2	21_%D0%98%D0%B4%D1%8B%D0%BC
+
+==> counts/counts_lang_li.txt <==
+30	Veurblaad
+7	li
+6	Niedorp
+6	Hollands_Kroon
+5	Wieringen
+5	Paosje
+5	Anna_Paulowna_(Noord-Holland)
+4	Wieringermeer
+4	User
+4	December
+
+==> counts/counts_lang_nah.txt <==
+9	Cal%C4%ABxatl
+8	nah
+3	Tlamahtl%C4%81c%C5%8Dnti_13
+3	Tlamahtl%C4%81c%C5%8Dnti_11
+3	Tlamahtl%C4%81c%C5%8Dnti
+3	Tlachicu%C4%93iti_30
+3	Polonia
+3	Ixachitl%C4%81n_Huitztl%C4%81mpa
+3	880_Xihuitl
+3	1880
+
+==> counts/counts_lang_ks.txt <==
+8	%DA%AF%D9%8E%D8%B1%D9%95
+4	ks
+3	%DA%88%DB%8C%D9%9A%D8%B3%D9%8E%D9%85%D8%A8%D9%8E%D8%B1
+2	Southern_African_Development_Community
+2	%25D8%25B9%25D9%2584%25D9%2585_%25D8%25B1%25DB%258C%25D8%25A7%25D8%25B6%25DB%258C
+2	%2525D8%2525B9%2525D9%252584%2525D9%252585_%2525D8%2525B1%2525DB%25258C%2525D8%2525A7%2525D8%2525B6%2525DB%25258C
+2	%252525D8%252525B9%252525D9%25252584%252525D9%25252585_%252525D8%252525B1%252525DB%2525258C%252525D8%252525A7%252525D8%252525B6%252525DB%2525258C
+2	%25252525D8%25252525B9%25252525D9%2525252584%25252525D9%2525252585_%25252525D8%25252525B1%25252525DB%252525258C%25252525D8%25252525A7%25252525D8%25252525B6%25252525DB%252525258C
+2	%2525252525D8%2525252525B9%2525252525D9%252525252584%2525252525D9%252525252585_%2525252525D8%2525252525B1%2525252525DB%25252525258C%2525252525D8%2525252525A7%2525252525D8%2525252525B6%2525252525DB%25252525258C
+2	%252525252525D8%252525252525B9%252525252525D9%25252525252584%252525252525D9%25252525252585_%252525252525D8%252525252525B1%252525252525DB%2525252525258C%252525252525D8%252525252525A7%252525252525D8%252525252525B6%252525252525DB%2525252525258C
+
+==> counts/counts_lang_als.txt <==
+91	als
+26	Houptsyte
+10	Kim_Jong-il
+8	Sex
+7	Liechtenstein
+5	Liste_der_chemischen_Elemente_nach_dem_Namen
+3	User
+3	Ungarische_Sprache
+3	Reitstellung
+3	Nasaler_Konsonant
+
+==> counts/counts_lang_myv.txt <==
+4	%D0%9F%D1%80%D1%8F%D0%BA%D1%81%D0%BB%D0%BE%D0%BF%D0%B0
+3	1904_%D0%B8%D0%B5
+3	%D0%9E%D0%B6%D0%BE%D0%BA%D0%BE%D0%B2
+2	myv
+2	1979_%D0%B8%D0%B5
+2	1966_%D0%B8%D0%B5
+2	1902_%D0%B8%D0%B5
+2	1851_%D0%B8%D0%B5
+2	1831_%D0%B8%D0%B5
+2	1828_%D0%B8%D0%B5
+
+==> counts/counts_lang_tg.txt <==
+5	tg
+5	%D0%A1%D0%B0%D2%B3%D0%B8%D1%84%D0%B0%D0%B8_%D0%90%D1%81%D0%BB%D3%A3
+3	31_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80
+3	%D0%94%D0%B5%D0%BA%D0%B0%D0%B1%D1%80
+2	Nederlands
+2	9_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80
+2	13_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82
+2	12_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80
+2	10_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80
+2	%D2%B6%D1%83%D0%BC%D2%B3%D1%83%D1%80%D0%B8%D0%B8_%D0%A2%D1%83%D0%B2%D0%B0
+
+==> counts/counts_lang_uz.txt <==
+20	uz
+11	Bosh_Sahifa
+4	Dekabr
+3	Real_Madrid
+3	Rasmiy_Til
+3	O%CA%BBzbek_tili
+3	Luiziana
+3	Fransiya
+3	Davlatlar_statistikasi_-_YaIM
+3	Davlatlar_statistikasi_-_Mustaqillik_sanalari
+
+==> counts/counts_lang_wuu.txt <==
+8	%E5%B0%81%E9%9D%A2
+4	%E8%9A%82%E8%9A%81
+4	%E5%A6%93%E5%A5%B3
+4	%E5%A5%B3%E9%98%B4
+3	%e7%9b%90%e5%9f%8e%e5%b8%82
+3	%E6%B5%B7%E5%8B%83%E6%B9%BE%E5%8C%BA
+3	%E6%80%A7%E8%A1%8C%E4%B8%BA
+2	台湾
+2	wuu
+2	%E9%98%B4%E8%92%82
+
+==> counts/counts_lang_lo.txt <==
+4	%E0%BB%9C%E0%BB%89%E0%BA%B2%E0%BA%AB%E0%BA%BC%E0%BA%B1%E0%BA%81
+3	lo
+3	%E0%BA%97%E0%BA%B1%E0%BA%99%E0%BA%A7%E0%BA%B2
+2	Nederlands
+2	International_Who%27s_Who
+2	Freitag
+2	%E5%88%86%E5%AD%90
+2	%E0%BA%AE%E0%BA%B1%E0%BA%99%E0%BA%88%E0%BA%B2
+2	%E0%BA%A7%E0%BA%B1%E0%BA%99%E0%BA%9E%E0%BA%B0%E0%BA%AB%E0%BA%B1%E0%BA%94
+2	%E0%BA%81%E0%BA%B0%E0%BB%80%E0%BA%97%E0%BA%B5%E0%BA%8D
+
+==> counts/counts_lang_ceb.txt <==
+14	ceb
+6	Unang_Panid
+3	User
+3	Tsina
+3	Mo%C3%AFta
+3	Demokrasya
+3	Conflans-en-Jarnisy
+2	Vauxbuin
+2	Sirkumperensiya
+2	Puerto_Rico
+
+==> counts/counts_lang_ht.txt <==
+38	ht
+7	Paj_Prensipal
+5	Sloatsburg,_New_York
+4	Slocomb_(Alabama)
+3	Desanm
+3	Charlemagne_Bien-Aime
+3	12_desanm
+3	11_septanm
+2	Tij
+2	Sloan,_Iowa
+
+==> counts/counts_lang_scn.txt <==
+16	scn
+15	Serradifarcu_%28CL%29
+15	P%C3%A0ggina_principali
+8	Kim_Jong_Il
+3	Dic%C3%A8mmiru
+3	Carlo_Muratori
+3	5_Di_Austu
+3	31_di_dic%C3%A8mmiru
+2	ulannisi
+2	tema
+
+==> counts/counts_lang_war.txt <==
+133	war
+30	Syahan_nga_Pakli
+4	Disyembre_31
+3	Kalipa_Abasida
+3	Im-%C3%ADm
+3	Disyembre
+3	Bisperas_han_Bag-o_nga_Tuig
+3	Alsace
+2	Tubig
+2	Syudad_han_Sugbo
+
+==> counts/counts_lang_vec.txt <==
+6	vec
+6	Pajina_prinsipa%C5%82e
+3	Lengua_todesca_bassa
+3	Disenbre
+3	31_de_di%C3%A7enbre
+3	12_de_di%C3%A7enbre
+3	11_de_di%C3%A7enbre
+3	%C5%81%C3%A9ngua_v%C3%A8neta
+2	XV_secolo
+2	Washington_D.C.
+
+==> counts/counts_lang_udm.txt <==
+61	%C2%AB%D0%A3%D0%B4%D0%BC%D1%83%D1%80%D1%82_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%C2%BB
+4	%D0%9A%D1%83%D1%82%D1%81%D0%BA%D0%BE%D0%BD_%D0%B1%D0%B0%D0%BC
+3	%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F
+3	%D0%A2%D0%BE%D0%BB%D1%81%D1%83%D1%80
+3	%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F
+2	7_%D1%82%D0%BE%D0%BB%D1%81%D1%83%D1%80
+2	1936_%D0%B0%D1%80
+2	%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7_%D0%BA%D1%8B%D0%BB
+2	%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD
+2	%D0%9F%D0%B0%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD
+
+==> counts/counts_lang_ky.txt <==
+13	%D0%91%D0%B0%D1%88%D0%B1%D0%B0%D1%80%D0%B0%D0%BA
+7	ky
+4	%D0%94%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8C
+2	Main_Page
+2	%D0%9C%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0
+2	%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0
+2	%D0%90%D0%BD%D0%B0%D0%B4%D0%BE%D0%BB%D1%83_%D0%A2%D2%AF%D1%80%D0%BA%D1%87%D3%A9%D1%81%D2%AF
+1	little_owl
+1	kavurma
+1	ka%C3%A7mak
+
+==> counts/counts_lang_mrj.txt <==
+3	mrj
+3	%D0%94%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8C
+2	%D0%A8%D1%83%D0%BA%D1%8B_%D1%8F%D0%BB%D0%B0%D0%BD%D0%B2%D0%BB%D3%93
+2	%D0%A4%D1%80%D0%B8%D1%82%D0%B0%D1%83%D0%BD
+2	%D0%A2%D3%B9%D0%BD%D0%B3_%D3%B9%D0%BB%D3%B9%D1%88%D1%82%D3%93%D1%88
+2	%D0%A2%D1%83%D0%BD%D0%B8%D1%81
+2	%D0%A1%D0%BE%D0%BC%D0%B1%D0%B0%D1%82%D1%85%D0%B5%D0%B9
+2	%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA
+2	%D0%9C%D1%83%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%D0%BF%D0%BE%D0%BA%D1%88%D0%B0%D0%BB%D0%BD%D1%8B%D1%88_%D1%82%D0%B0%D0%BD%D0%B3%D1%8B%D0%B6
+2	%D0%9B%D0%BE%D0%BC%D0%B5
+
+==> counts/counts_lang_ba.txt <==
+10	%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82
+4	ba
+4	%D0%AF%D2%A3%D1%8B_%D0%B9%D1%8B%D0%BB
+3	2011_%D0%B9%D1%8B%D0%BB
+2	5_%D0%BC%D0%B0%D0%B9_(%D2%BB%D0%B0%D0%B1%D0%B0%D0%BD%D0%B0%D0%B9)
+2	12_%D0%94%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8C_(%D0%90%D2%A1%D1%8A%D1%8E%D0%BB%D0%B0%D0%B9)
+2	%D0%A2%D0%B0%D1%80%D0%B8%D1%85
+2	%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0
+1	Нидерландтар
+1	Собханғол_ауылы_белорет_районы
+
+==> counts/counts_lang_pms.txt <==
+8	Intrada
+6	pms
+3	Universit%C3%A0_%C3%ABd_Nissa_Mar%C3%ACtima
+2	User
+2	Svessia
+2	Pontours
+2	Plutarch
+2	Parietaria_officinalis
+2	Organisassion_dle_Nassion_Un%C3%ACe
+2	Norvegia
+
+==> counts/counts_lang_nb.txt <==
+2	Yosa-gun_(Ky%C5%8Dto)
+2	Syntese
+2	Stockholms_medeltidsmuseum
+2	Slaget_om_An_Lao
+2	Sirkulasjonssystem
+2	Selnesvatnet_naturreservat
+2	Provincia_de_Ant%C3%A1rtica_Chilena
+2	Parkour
+2	Manuel_Teixeira_Gomes
+2	M578_Light
+
+==> counts/counts_lang_krc.txt <==
+7	%D0%91%D0%B0%D1%88_%D0%B1%D0%B5%D1%82
+6	krc
+2	22_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8C
+2	21_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8C
+2	21_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C
+2	1_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8C
+2	1_%D0%B8%D1%8E%D0%BD%D1%8C
+2	19_%D0%BC%D0%B0%D0%B9
+2	1936_%D0%B4%D0%B6%D1%8B%D0%BB
+2	1933_%D0%B4%D0%B6%D1%8B%D0%BB
+
+==> counts/counts_lang_lmo.txt <==
+15	lmo
+5	Pagina_principala
+4	Dicember
+3	It%C3%A0lia
+3	%C3%80rea
+2	User
+2	Ucean_Atlantich
+2	Svizzera
+2	Satigny
+2	Paterson
+
+==> counts/counts_lang_bh.txt <==
+3	bh
+3	%E0%A4%A6%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%B0
+2	%E0%A5%A8%E0%A5%A6%E0%A5%A6%E0%A5%AA
+2	%E0%A5%A8%E0%A5%A6%E0%A5%A6%E0%A5%A7
+2	%E0%A5%A7%E0%A5%AF%E0%A5%AF%E0%A5%AF
+2	%E0%A5%A7%E0%A5%AF%E0%A5%AF%E0%A5%AB
+2	%E0%A5%A7%E0%A5%AF%E0%A5%AF%E0%A5%A7
+2	%E0%A5%A7%E0%A5%AF%E0%A5%AC%E0%A5%AA
+2	%E0%A5%A7%E0%A5%AF%E0%A5%A9%E0%A5%AF
+2	%E0%A5%A7%E0%A5%AE%E0%A5%AE%E0%A5%AF
+
+==> counts/counts_lang_rue.txt <==
+7	%D0%A1%D0%BB%D0%BE%D0%B1%D0%BE%D0%B6%D0%B0%D0%BD%D1%89%D1%96%D0%BD%D0%B0
+7	%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0
+4	rue
+3	31._%D0%B4%D0%B5%D1%86%D0%B5%D0%BC%D0%B1%D0%B5%D1%80
+3	10._%D0%B4%D0%B5%D1%86%D0%B5%D0%BC%D0%B1%D0%B5%D1%80
+3	%D0%94%D0%B5%D1%86%D0%B5%D0%BC%D0%B1%D0%B5%D1%80
+2	User
+2	29._%D1%8E%D0%BD
+2	28._%D1%8E%D0%BB
+2	13._%D0%B4%D0%B5%D1%86%D0%B5%D0%BC%D0%B1%D0%B5%D1%80
+
+==> counts/counts_lang_mt.txt <==
+11	Nies_prominenti_Maltin
+8	Kim_Jong-il
+5	mt
+4	Il-Pa%C4%A1na_prin%C4%8Bipali
+3	User
+3	Oreste_Chircop
+3	Melchiorre_Gaf%C3%A0
+3	Dom_Mintoff
+3	Di%C4%8Bembru
+2	Uganda
+
+==> counts/counts_lang_or.txt <==
+8	%E0%AC%AA%E0%AD%8D%E0%AC%B0%E0%AC%A7%E0%AC%BE%E0%AC%A8_%E0%AC%AA%E0%AD%83%E0%AC%B7%E0%AD%8D%E0%AC%A0%E0%AC%BE
+3	Linux_User_Group
+3	%E0%AC%97%E0%AD%8D%E0%AC%B0%E0%AD%87%E0%AC%97%E0%AD%8B%E0%AC%B0%E0%AC%BF_%E0%AC%AA%E0%AC%BE%E0%AC%9E%E0%AD%8D%E0%AC%9C%E0%AC%BF
+3	%E0%AC%89%E0%AC%AC%E0%AC%A3%E0%AD%8D%E0%AC%9F%E0%AD%81_(%E0%AC%A6%E0%AC%B0%E0%AD%8D%E0%AC%B6%E0%AC%A8)
+2	Ludwik_Fleck
+2	Hauptseite
+2	%E0%AC%B2%E0%AC%95%E0%AD%8D%E0%AC%B7%E0%AD%8D%E0%AC%AE%E0%AD%80%E0%AC%AA%E0%AD%8D%E0%AC%B0%E0%AC%BF%E0%AD%9F%E0%AC%BE_%E0%AC%AE%E0%AC%B9%E0%AC%BE%E0%AC%AA%E0%AC%BE%E0%AC%A4%E0%AD%8D%E0%AC%B0
+2	%E0%AC%AC%E0%AD%87%E0%AC%AE%E0%AC%BE%E0%AC%B0
+2	%E0%AC%AA%E0%AC%BE%E0%AC%A3%E0%AD%8D%E0%AC%A1%E0%AC%AC
+2	%E0%AC%9A%E0%AC%B0%E0%AD%8D%E0%AC%AF%E0%AC%BE_%E0%AC%97%E0%AD%80%E0%AC%A4%E0%AC%BF%E0%AC%95%E0%AC%BE
+
+==> counts/counts_lang_xal.txt <==
+5	%D0%9D%D2%AF%D1%80_%D1%85%D0%B0%D0%BB%D1%85
+3	xal
+3	%D0%91%D0%B0%D1%80_%D1%81%D0%B0%D1%80%D0%B8%D0%BD_31
+3	%D0%91%D0%B0%D1%80_%D1%81%D0%B0%D1%80
+2	%D0%A8%D0%B8%D0%BD%D2%97%D3%99%D0%BD
+2	%D0%A5%D0%BE%D1%80%D0%B3%D0%B4%D0%BB
+2	%D0%A5%D0%B5%D0%BC%D1%88%D1%83%D0%B4%D0%B8%D0%BD_%D0%9E%D1%80%D0%BD
+2	%D0%9B%D2%AF%D2%A3%D1%82%D0%BD
+2	%D0%97%D2%AF%D1%80%D0%BA%D0%BD
+2	%D0%91%D0%B0%D1%80_%D1%81%D0%B0%D1%80%D0%B8%D0%BD_13
+
+==> counts/counts_lang_ab.txt <==
+9	ab
+5	%D0%98%D1%85%D0%B0%D0%B4%D0%BE%D1%83_%D0%B0%D0%B4%D0%B0%D2%9F%D1%8C%D0%B0
+2	2008
+2	%D2%A6%D1%85%D1%8B%D0%BD%D2%B7%D0%BA%D3%99%D1%8B%D0%BD
+2	%D2%9A%D3%99%D2%AD%D0%B5%D1%88%D1%8C
+2	%D0%A7%D0%B8%D0%BB%D0%B8
+2	%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B0_%D0%94%D1%83
+2	%D0%90%D2%A7%D1%81%D0%BD%D1%8B
+2	%D0%90%D1%82%D3%99%D1%8B%D0%BB%D0%B0%D2%9B%D3%99%D0%B5%D0%B8_%D0%B0%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D2%9B%D3%99%D0%B5%D0%B8_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%82%D3%99_%D1%80%D1%8B%D1%85%D1%8C%D3%A1%D1%8B%D0%BD%D2%B5%D0%B0
+2	%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0_%D0%95%D0%B8%D0%B4%D1%83_%D0%90%D1%88%D1%82%D0%B0%D1%82%D2%9B%D3%99%D0%B0
+
+==> counts/counts_lang_nds-nl.txt <==
+16	Veurblad
+9	Kim_Jong-il
+6	nds-nl
+4	Helligen_Hendrik
+4	31_december
+3	Universiteat_Utrecht
+3	Pooln
+3	December
+3	Beetsterzwaog
+3	8_december
+
+==> counts/counts_lang_arc.txt <==
+4	%DC%A6%DC%90%DC%AC%DC%90_%DC%AA%DC%9D%DC%AB%DC%9D%DC%AC%DC%90
+3	arc
+3	%DC%92%DC%AA_%DC%90%DC%A2%DC%AB%DC%90
+2	User
+2	%DC%AA%DC%9D%DC%AB_%DC%A9%DC%98%DC%9B%DC%A2%DC%9D%DC%98%DC%AC%DC%90
+2	%DC%A6%DC%AA%DC%A2%DC%A3%DC%90
+2	%DC%A6%DC%98%DC%AA%DC%9B%DC%98%DC%93%DC%A0
+2	%DC%A3%DC%98%DC%AA%DC%93%DC%95%DC%90_%DC%93%DC%AA%DC%9D%DC%93%DC%98%DC%AA%DC%9D%DC%90
+2	%DC%A3%DC%98%DC%9D%DC%95
+2	%DC%A1%DC%AA%DC%9D_%DC%9D%DC%98%DC%9A%DC%A2%DC%A2_%DC%A6%DC%98%DC%A0%DC%98%DC%A3_%DC%AC%DC%AA%DC%9D%DC%A2%DC%90
+
+==> counts/counts_lang_ang.txt <==
+21	H%C4%93afods%C4%ABde
+10	ang
+4	Barack_Obama
+3	Spr%C7%A3ccr%C3%A6ft
+3	Italisc_spr%C7%A3c
+3	Bises
+3	Abbodesse
+3	1933
+2	User
+2	St%C7%A3rlice_%C8%9Demynddagas
+
+==> counts/counts_lang_ia.txt <==
+15	ia
+13	Lista_de_paises_de_Europa
+10	Pagina_principal
+3	chsearch.php
+3	Decembre
+3	Area
+2	calce_de_Achilles
+2	c
+2	User
+2	Seismo
+
+==> counts/counts_lang_gv.txt <==
+7	Ard-ghuillag
+3	User
+3	Mee_ny_Nollick
+3	31_Mee_ny_Nollick
+2	gv
+2	Yn_Votswaan
+2	Yn_Vooir_Ruy
+2	Yn_Veanvooir
+2	Yn_Tatarstaan
+2	Yn-lhoamey
+
+==> counts/counts_lang_pi.txt <==
+4	%E0%A4%AA%E0%A4%AE%E0%A5%81%E0%A4%96_%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%A4_Pamukha_patta
+2	pi
+2	%E0%A5%A7%E0%A5%AE%E0%A5%AA%E0%A5%A7
+2	%E0%A5%A7%E0%A5%AC%E0%A5%AD%E0%A5%A7
+2	%E0%A5%A7%E0%A5%AC%E0%A5%A6%E0%A5%A6
+1	२०१४
+1	१९३१
+1	१८९८
+1	१७११
+1	१५९८
+
+==> counts/counts_lang_bar.txt <==
+97	setup.php
+14	bar
+10	Hauptseitn
+8	Gschlechtsverkehr
+3	User
+3	Rosnham
+3	Monika_Gruber
+3	Minga
+3	Gstanzl
+3	Fedahaum
+
+==> counts/counts_lang_nap.txt <==
+9	nap
+3	Sofia_Loren
+3	Paggena_prencepale
+3	Ornella_Muti
+3	Dicembre
+3	31_%27e_dicembre
+3	17_%27e_jennaro
+3	1670
+3	13_%27e_dicembre
+3	10_%27e_dicembre
+
+==> counts/counts_lang_dk.txt <==
+3	dk
+2	You_Only_Live_Twice_(bog)
+2	Yeonpyeong
+2	XSL
+2	Waffen-SS
+2	WPAN
+2	Venus
+2	V.90
+2	V.34
+2	Union_Jack
+
+==> counts/counts_lang_hak.txt <==
+9	K%C3%AEm_Tsang-ngit
+7	hak
+5	Th%C3%A8u-Ya%CC%8Dp
+2	Y%C3%A2-lu-sat-l%C3%A2ng
+2	User
+2	Thi-khi%C3%B9
+2	Thi%CC%8Dt-l%C3%A2-ng%C3%A1
+2	S%E1%B9%B3n-tan-chiet
+2	S%C3%AE-p%C3%A2n-ng%C3%A0
+2	Pet-k%C3%AEn
+
+==> counts/counts_lang_tk.txt <==
+5	Ba%C5%9F_Sahypa
+3	Dekabr
+3	31_dekabr
+3	12_dekabr
+2	Isa_Pygamber
+2	Gana
+2	Erzurum_(il)
+2	Da%C3%BDhanbank
+2	Ba%C5%9Fkent_Bilim_Merkezi
+2	8_mart
+
+==> counts/counts_lang_nv.txt <==
+5	%C3%8Diyis%C3%AD%C3%AD_Naaltsoos
+2	nv
+2	Ts%CA%BC%C3%AD%CA%BCii
+2	T%CA%BC%C3%B3ok_Bik%C3%A9yah
+2	Shash
+2	Naats%C3%A9dl%C3%B3zii
+2	Kol%C3%A1mbiya
+2	D%C3%A1%C3%A1ghahii_bizaad
+1	Íiyisíí_Naaltsoos
+1	yishchin
+
+==> counts/counts_lang_pam.txt <==
+6	Pun_Bulung
+4	Disiembri_31
+3	Pun-batas
+3	Kamansi
+3	Disiembri_11
+3	Disiembri
+2	pam
+2	Susu
+2	Pakistan
+2	Nepal
+
+==> counts/counts_lang_mdf.txt <==
+4	%D0%9F%D1%80%D1%8F_%D0%BB%D0%BE%D0%BF%D0%B0
+3	%D0%94%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8C%D0%BA%D0%BE%D0%B2
+2	Knobcone_%D0%BF%D0%B8%D1%87%D0%B5
+2	CIA_World_Factbook
+2	%D0%A2%D0%B0%D1%82%D0%B0%D1%80%D0%BC%D0%B0%D1%81%D1%82%D0%BE%D1%80
+2	%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D1%81%D1%8C
+2	%D0%9F%D0%B0%D1%80%D1%8F%D1%84%D0%BD%D0%B5%D0%BC%D0%B0
+2	%D0%9A%D1%80%D0%B0%D0%BD%D1%86%D0%BE%D0%BD%D1%8C_%D0%BA%D1%8F%D0%BB%D1%8C
+2	%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B5
+2	%D0%92%D0%B5%D0%BD%D0%B5%D0%B7%D1%83%D0%B5%D0%BB%D0%B0
+
+==> counts/counts_lang_diq.txt <==
+10	diq
+6	Pela_Seri
+5	Kanun
+4	Yahoo!_Music
+3	I%C4%9Fd%C4%B1r_(w%C4%B1layet)
+3	Britanya_G%C4%B1rde
+3	Anatomiye
+3	11_Kanun
+2	chsearch.php
+2	Z%C4%B1wano_resmi
+
+==> counts/counts_lang_fiu-vro.txt <==
+9	fiu-vro
+6	P%C3%A4%C3%A4leht
+5	1948
+4	1968
+3	Joulukuu
+3	11._joulukuu_p%C3%A4iv
+2	Taani
+2	Rumeeni%C3%A4
+2	Riigi_internetitunnus
+2	Monarhia
+
+==> counts/counts_lang_mi.txt <==
+5	Hau_K%C4%81inga
+4	Hakihea
+3	Iowa
+3	1715
+3	1600
+2	mi
+2	Wyoming
+2	Wisconsin
+2	Whiringa-%C4%81-rangi
+2	Whiringa-%C4%81-nuku
+
+==> counts/counts_lang_co.txt <==
+8	Pagina_maestra
+6	co
+3	Cristianisimu
+3	Aprile
+2	tema
+2	Spagna
+2	Serenatu_di_Scappinu
+2	Riventosa
+2	Pedicroce
+2	Ottave_giocose
+
+==> counts/counts_lang_sco.txt <==
+21	sco
+11	Main_Page
+9	Kars,_Turkey
+8	Kim_Jong-il
+5	Neep
+4	Stratovarius
+4	Slanj
+4	Ne%27er%27s_Day
+4	Aleksi_Sihvonen
+3	Wather
+
+==> counts/counts_lang_bat-smg.txt <==
+11	bat-smg
+9	P%C4%97rms_poslapis
+8	Kim_D%C5%BEiuong_Ils
+3	Groudis
+3	Groud%C4%97_31
+2	Vikimed%C4%97j%C4%97
+2	Teuoluog%C4%97j%C4%97
+2	Sik%C4%97zmos
+2	Sei%C5%A1iel%C4%93
+2	Saus%C4%97_9
+
+==> counts/counts_lang_iu.txt <==
+6	%E1%93%B4%E1%93%82%E1%93%95%E1%90%8A%E1%96%85%E1%91%90%E1%96%85/saniliaqtuq
+6	%E1%90%8A%E1%92%A5%E1%96%85
+3	%E1%91%8E%E1%93%AF%E1%92%BB%E1%90%B3%E1%95%86
+2	%E1%93%AF%E1%91%8E%E1%92%BB%E1%90%B3%E1%95%86
+2	%E1%93%9B%E1%94%85_%E1%95%96%E1%92%90%E1%94%85
+2	%E1%90%85%E1%93%B1%E1%92%83
+1	ᑕᖅᑲᐅᓈᖅᑐᖅ/taqqaunaaqtuq
+1	ᑕᖅᑲᐅᓈᖅᑐᖅ
+1	ᐊᓱᐃᓛᒃ/asuilaak
+1	ᐊᓱᐃᓛᒃ
+
+==> counts/counts_lang_dz.txt <==
+3	James_Joyce
+3	%E0%BD%98%E0%BC%8B%E0%BD%A4%E0%BD%BC%E0%BD%82%E0%BC%8D
+3	%E0%BD%96%E0%BD%B4%E0%BD%98%E0%BC%8B%E0%BD%90%E0%BD%84%E0%BC%8B%E0%BD%A2%E0%BE%AB%E0%BD%BC%E0%BD%84%E0%BC%8B%E0%BD%81%E0%BD%82
+2	dz
+2	%E0%BD%A2%E0%BE%92%E0%BE%B1%E0%BC%8B%E0%BD%98%E0%BD%B2
+1	Help%3A%E0%BD%93%E0%BD%84%E0%BC%8B%E0%BD%91%E0%BD%BC%E0%BD%93%E0%BC%8D
+1	%E0%BD%A8%E0%BD%BA%E0%BD%93%E0%BC%8B%E0%BD%8C%E0%BD%BC%E0%BC%8B%E0%BD%A2
+1	%E0%BD%A8%E0%BD%A6%E0%BC%8B%E0%BD%8A%E0%BD%BA%E0%BD%A1%E0%BD%BA%E0%BC%8B%E0%BD%A3%E0%BD%B2%E0%BC%8B%E0%BD%A1
+1	%E0%BD%A8%E0%BD%A6%E0%BC%8B%E0%BD%8A%E0%BD%B2%E0%BC%8B%E0%BD%A1
+1	%E0%BD%A8%E0%BD%95%E0%BC%8B%E0%BD%82%E0%BC%8B%E0%BD%93%E0%BD%B2%E0%BD%A6%E0%BD%B2%E0%BC%8B%E0%BD%8F%E0%BD%B1%E0%BD%93%E0%BC%8B
+
+==> counts/counts_lang_hsb.txt <==
+9	hsb
+4	Uniwersita_Leiden
+4	H%C5%82owna_strona
+3	M%C4%9Brjenska_jednotka
+3	December
+2	W%C3%B3l%C5%A1a
+2	User
+2	Rejza
+2	Pepa_Nos
+2	Pakistan
+
+==> counts/counts_lang_mwl.txt <==
+26	P%C3%A1igina_Percipal
+14	Abadie
+8	mwl
+4	Wine
+4	Medecina
+3	Sismo
+3	Luna
+3	Geografie
+2	Trasporte
+2	Templo_griego
+
+==> counts/counts_lang_ce.txt <==
+7	Avarhoyn_mott
+5	%D0%9D%D0%BE%D1%85%D1%87%D0%B8%D0%B9%D0%BD_%D0%9F%D0%B0%D1%87%D1%85%D1%8C%D0%B0%D0%BB%D0%BA%D1%85_%D0%9D%D0%BE%D1%85%D1%87%D0%B8%D0%B9%D1%87%D0%BE%D1%8C
+4	%D0%9A%D0%BE%D1%8C%D1%80%D1%82%D0%B0_%D0%B0%D0%B3l%D0%BE
+3	%D0%9E%D0%B3%D0%BE%D0%B9_%D0%B1%D1%83%D1%82%D1%82
+3	%D0%9C%D0%B5%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B2%D1%81%D0%B0%D0%B4%D0%BD%D0%B8%D0%BA
+2	ce
+2	User
+2	%D0%A7%D0%B5%D1%87%D0%BD%D1%8F
+2	%D0%9D%D0%BE%D1%85%D1%87%D0%B8%D0%B9_%D0%BC%D0%BE%D1%82%D1%82
+2	%D0%9C%D0%BE%D0%B3l%D0%B0%D0%BC_%D0%BC%D0%B5%D1%82%D1%82%D0%B0%D0%BD%D0%B8%D0%B9%D0%BD
+
+==> counts/counts_lang_nrm.txt <==
+11	nrm
+7	Page_d%C3%A9_garde
+3	chsearch.php
+3	User
+3	D%C3%A9zembre
+3	31_D%C3%A9zembre
+2	Tchu_d%C3%A9_l%27An
+2	Dgibr%C3%A2ltar
+2	Chill%C3%A1n
+2	9_Janvyi
+
+==> counts/counts_lang_wa.txt <==
+391	mwaisse_p%c3%a5dje
+6	Mwaisse_p%C3%A5dje
+4	Moes_d%27_decimbe
+4	31_di_decimbe
+3	wa
+2	tamijh
+2	User
+2	Rinne_(biesse)
+2	Pologne
+2	Aplacaedje_(linwince)
+
+==> counts/counts_lang_koi.txt <==
+6	koi
+3	%D0%9F%D0%BE%D0%BD%D0%B4%C3%B6%D1%82%D1%87%D0%B0%D0%BD_%D0%BB%D0%B8%D1%81%D1%82%D0%B1%D0%BE%D0%BA
+3	%D0%94%D0%B5%D0%BA%D0%B0%D0%B1
+3	%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD_%D0%BA%D1%8B%D0%B2
+2	Sarcochilus
+2	%D0%A1%D0%B5%D0%BD%D1%82%D1%8F%D0%B1
+2	%D0%9F%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0
+2	%D0%9A%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D1%8F
+1	Саркохилус
+1	Язьвинса
+
+==> counts/counts_lang_as.txt <==
+10	as
+7	%E0%A6%AC%E0%A7%87%E0%A6%9F%E0%A7%81%E0%A6%AA%E0%A6%BE%E0%A6%A4
+2	%E0%A6%AA%E0%A7%83%E0%A6%A5%E0%A6%BF%E0%A7%B1%E0%A7%80
+2	%E0%A6%A6%E0%A7%B0%E0%A7%8D%E0%A6%B6%E0%A6%A8
+2	%E0%A6%87%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A7%B0%E0%A6%A8%E0%A7%87%E0%A6%9F
+2	%E0%A6%87%E0%A6%89%E0%A7%B0%E0%A7%87%E0%A6%9B%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE
+2	%E0%A6%86%E0%A6%AB%E0%A7%8D%E0%A7%B0%E0%A6%BF%E0%A6%95%E0%A6%BE
+1	শোণিতপুৰ
+1	দাঁত
+1	W/w/w/w/w/index.php
+
+==> counts/counts_lang_frp.txt <==
+4	Re%C3%A7ua
+3	User
+3	13_d%C3%A8cembro
+3	12_d%C3%A8cembro
+3	11_d%C3%A8cembro
+3	10_d%C3%A8cembro
+2	Vajhena
+2	Tems
+2	Tch%C2%B7%C3%A8co
+2	Singapor
+
+==> counts/counts_lang_xmf.txt <==
+3	31_%E1%83%A5%E1%83%98%E1%83%A0%E1%83%A1%E1%83%94%E1%83%97%E1%83%A3%E1%83%97%E1%83%90
+3	%E1%83%A5%E1%83%98%E1%83%A0%E1%83%A1%E1%83%94%E1%83%97%E1%83%A3%E1%83%97%E1%83%90
+3	%E1%83%93%E1%83%A3%E1%83%93%E1%83%AE%E1%83%90%E1%83%A1%E1%83%B7%E1%83%9A%E1%83%90
+2	xmf
+2	1_%E1%83%A6%E1%83%A3%E1%83%A0%E1%83%97%E1%83%A3%E1%83%97%E1%83%90
+2	13_%E1%83%A5%E1%83%98%E1%83%A0%E1%83%A1%E1%83%94%E1%83%97%E1%83%A3%E1%83%97%E1%83%90
+2	12_%E1%83%A5%E1%83%98%E1%83%A0%E1%83%A1%E1%83%94%E1%83%97%E1%83%A3%E1%83%97%E1%83%90
+2	11_%E1%83%A5%E1%83%98%E1%83%A0%E1%83%A1%E1%83%94%E1%83%97%E1%83%A3%E1%83%97%E1%83%90
+2	10_%E1%83%A5%E1%83%98%E1%83%A0%E1%83%A1%E1%83%94%E1%83%97%E1%83%A3%E1%83%97%E1%83%90
+2	%E1%83%A1%E1%83%9D%E1%83%9B%E1%83%AE%E1%83%94%E1%83%97%E1%83%98
+
+==> counts/counts_lang_sd.txt <==
+10	%D9%85%D9%8F%DA%A9_%D8%B5%D9%81%D8%AD%D9%88
+2	%DA%80%D8%A7%D8%B1%D8%AA
+2	%D9%BA%D9%BD%D9%88
+1	سَهِجِياڀياس
+1	سَهِجياڀياس
+1	وَسِڪارَ
+1	فَرسَنگُ
+1	صَرفياتِ
+1	سَهِجِيا
+1	گِرَهُه
+
+==> counts/counts_lang_av.txt <==
+3	av
+3	%D0%93%D3%80%D0%B0%D0%B4%D0%B0%D0%BD
+3	%D0%91%D0%B5%D1%82I%D0%B5%D1%80%D0%B0%D0%B1_%D0%B3%D1%8C%D1%83%D0%BC%D0%B5%D1%80
+2	1974
+2	%D0%B7%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
+2	%D0%A6%D0%B8
+2	%D0%A2%D0%B0%D0%B8%D0%BB%D0%B0%D0%BD%D0%B4
+1	Анлъго
+1	User
+1	Main_Page.
+
+==> counts/counts_lang_map-bms.txt <==
+11	Kaca_Utama
+5	map-bms
+3	Renang
+3	1939
+2	Wikimedia_Foundation
+2	Wijayakusuma
+2	Televisi
+2	Pagedangan,_Tangerang
+2	Microsoft_Corporation
+2	Daftar_Alamat_Pendidikan_Purwokerto
+
+==> counts/counts_lang_roa-tara.txt <==
+10	Pagene_Prengep%C3%A1le
+3	Dec%C3%A8mmre
+2	V%C3%B4sce_de_qualitate_sus_a_zh-classical.wiki
+2	User
+2	Sciugrafije
+2	Pugghie
+2	Provinge_de_Cosenza
+2	Organizzazione_de_le_Paj%C3%A8sere_Esportature_de_Petrolie
+2	Itaglie
+2	Deserte
+
+==> counts/counts_lang_csb.txt <==
+7	Prz%C3%A9dn%C3%B4_starna
+4	G%C3%B2dnik
+3	Henrik_IV
+3	18_g%C3%B2dnika
+3	1384
+3	.lt
+2	csb
+2	User
+2	Turkmenistan
+2	Kal%C3%A3darium
+
+==> counts/counts_lang_se.txt <==
+10	V%C3%A1ldosiidu
+9	se
+3	Juovlam%C3%A1nu_31
+3	Juovlam%C3%A1nnu
+2	Venezuela
+2	Palestina
+2	Juovlam%C3%A1nu_12.
+2	Juovlam%C3%A1nu_11.
+2	Juovlam%C3%A1nu_10.
+2	Golggotm%C3%A1nu_6.
+
+==> counts/counts_lang_hif.txt <==
+13	hif
+6	Pahila_Panna
+3	Nobel_Prize
+3	New_Zealand
+3	Medhak
+3	Fiji
+3	December
+3	31_December
+3	1939
+2	X-ray
+
+==> counts/counts_lang_kbd.txt <==
+7	kbd
+5	%D0%9D%D0%B0%D0%BF%D1%8D%D0%BA%D3%80%D1%83%D1%8D%D1%86%D3%80_%D0%BD%D1%8D%D1%85%D1%8A%D1%8B%D1%89%D1%85%D1%8C%D1%8D
+3	%D0%9A%D0%B0%D1%80%D0%B8%D0%BC_%D0%9C%D0%B0%D1%81%D0%B8%D0%BC%D0%BE%D0%B2
+2	%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%8D%D0%BC_%D0%B8_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80
+2	%D0%98%D0%BD%D0%B4%D0%BE-%D0%B5%D1%83%D1%80%D0%BE%D0%BF%D0%B5%D0%B8%D0%B1%D0%B7%D1%8D%D1%85%D1%8D%D1%80
+1	Вендабзэ
+1	Валерия_Гай_Германика
+1	chsearch.php
+1	%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8D
+1	%D0%A8%D1%83%D1%8D%D1%86
+
+==> counts/counts_lang_ln.txt <==
+17	ln
+8	Enama
+6	Lok%C3%A1s%C3%A1_ya_libos%C3%B3
+4	S%C3%A1nz%C3%A1_ya_z%C3%B3mi_na_m%C3%ADbal%C3%A9
+4	Nicolas_Sarkozy
+4	L%C7%90so
+3	Main_Page
+2	index.php
+2	User
+2	Turks_mp%C3%A9_Caicos
+
+==> counts/counts_lang_ksh.txt <==
+7	ksh
+4	Dezemmber
+3	K%C3%B6rperteil
+3	K%C3%B6lle
+3	31._Dezemmber
+2	Wenker_S%C3%A4z_op_K%C3%B6lsch
+2	Verdauung
+2	User
+2	Seppt%C3%A4mmber
+2	Pooz_Sigge
+
+==> counts/counts_lang_lbe.txt <==
+3	%D0%94%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8C
+3	%D0%93%D0%B0%D0%BD%D0%B0
+2	%D0%AF%D1%80%D1%83%D1%81%D1%81%D0%B0%D0%BD%D0%BD%D0%B0%D0%BB_%D0%BC%D0%B0%D0%B7
+2	%D0%A5%D1%8A
+2	%D0%A5%D0%B0%D0%BC%D0%B8%D1%81
+2	%D0%A3%D1%85%D1%81%D1%81%D0%B0%D0%B2%D0%BD%D0%B8%D0%BB_%D0%9E%D1%81%D0%B5%D1%82%D0%B8%D1%8F
+2	%D0%9C%D0%B0%D0%B2%D0%BB%D1%83%D0%B4_%D0%AD%D1%81%D0%B0%D0%BB
+2	%D0%99
+2	%D0%90%D0%B3%D1%8C%D0%B0%D0%BC%D0%BC%D1%83%D1%80_%D0%BB%D0%B0%D0%B6%D0%B8%D0%BD
+1	Хъ
+
+==> counts/counts_lang_roa-rup.txt <==
+187	roa-rup
+14	Prota_fr%C3%A3ndz%C3%A3
+3	Theatro
+3	La_Steaua
+2	Vurgaria
+2	Turizmo
+2	Televizia
+2	Rom%C3%A3nia
+2	Relighie
+2	Muzica
+
+==> counts/counts_lang_fur.txt <==
+5	Pagjine_princip%C3%A2l
+4	Furlan
+3	Dicembar
+2	User
+2	Storie
+2	Pagjine_princip%25C3%25A2l
+2	Ongjarie
+2	Olande
+2	Moschee
+2	Duin-Nabresine
+
+==> counts/counts_lang_cu.txt <==
+14	%D0%93%D0%BB%D0%B0%D0%B2%D1%8C%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
+4	cu
+2	%D1%A8%EA%99%81%EA%99%91%D0%BA%D0%BE%EA%99%81%D0%BD%D0%B0%D0%BD%D0%B8%D1%A5
+1	Ѳєссалонїка
+1	Кꙑрꙑмьска_Аѵтономьна_Димократїꙗ
+1	Чрьнꙗховъ_·_Житомирьскꙑ_области
+1	Коломьна
+1	Вꙑдꙑборъ
+1	Ꙗсиньць
+1	Єѵрѡ́па
+
+==> counts/counts_lang_frr.txt <==
+26	Hoodsid
+9	frr
+8	1991
+3	User
+3	Gregoriaans_kalender
+2	Wiiren
+2	T%C3%A4chnik
+2	Sosjologii
+2	Sel
+2	Saaterfrasch
+
+==> counts/counts_lang_vls.txt <==
+26	Voorblad
+7	vls
+3	December
+3	31_december
+2	User
+2	Sigrid_Spruyt
+2	Pietjesbak
+2	Oudejoar
+2	Boudewyn_VI_van_Vloandern
+2	7_september
+
+==> counts/counts_lang_eml.txt <==
+12	eml
+10	PP
+9	Nicole_Minetti
+4	Tiririca
+4	Matteo_Setti
+3	Mat%25C3%25A9lda_ed_Can%25C3%25B2sa
+3	Giava
+3	Gi%C3%A2z
+3	Dic%C3%A8mber
+2	Trietto
+
+==> counts/counts_lang_so.txt <==
+25	so
+15	Bogga_Hore
+14	Jijeele
+7	Hawiye
+5	Duduble
+4	Kismaayo
+3	Diseembar
+3	Abgaal
+2	Yurub
+2	Xaaji_Ismaaciil_Yoonis
+
+==> counts/counts_lang_chr.txt <==
+6	%E1%8F%85%E1%8F%93_%E1%8E%A0%E1%8E%B4_%E1%8F%9A%E1%8F%93%E1%8F%95%E1%8F%AB%E1%8F%8D%E1%8F%9B
+6	%E1%8E%A4%E1%8E%B5%E1%8E%AE%E1%8E%B5%E1%8F%8D%E1%8F%97
+5	%E1%8E%A0%E1%8F%82%E1%8E%AA%E1%8E%A2_%E1%8E%A2%E1%8F%97%E1%8E%A6%E1%8E%B8%E1%8E%B3%E1%8F%97
+4	%E1%8F%B3%E1%8F%AA%E1%8F%84
+3	Sawfly
+3	%E1%8E%B9%E1%8F%93%E1%8E%B5
+3	%E1%8E%B9%E1%8F%8F
+2	chr
+2	Venus
+2	Troposphere
+
+==> counts/counts_lang_nov.txt <==
+5	Chefi_pagine
+3	Desembre
+3	31_de_desembre
+2	nov
+2	chsearch.php
+2	Wikipedie
+2	Vagine
+2	Sofia
+2	Sientie
+2	Nakichevan
+
+==> counts/counts_lang_lij.txt <==
+10	lij
+6	Majotte
+4	Pagina_prin%C3%A7ip%C3%A2
+3	Numansia
+3	Dexembre
+2	Uruguay_%5B%CB%88%CA%8A%C9%B9.%C9%99.%C9%A1we%C9%AA%5D
+2	Liechtenstein
+2	Lengua_catalann-a
+2	Haiti
+2	Giappon
+
+==> counts/counts_lang_bcl.txt <==
+65	setup.php
+11	bcl
+8	Kim_Jung-Il
+6	Pangenot_na_Pahina
+3	Septyembre_6
+3	Nicolas_Sarkozy
+3	Desyembre_11
+3	Desyembre_10
+3	Desyembre
+2	User
+
+==> counts/counts_lang_ace.txt <==
+103	setup.php
+10	ace
+8	%C3%94n_Keu%C3%AB
+5	Laos
+3	User
+2	Wikip%C3%A8dia
+2	Syafi%27iy
+2	Santiag%C3%B4_de_Chili
+2	Republik_Tatarstan
+2	Republik_Sakha
+
+==> counts/counts_lang_gn.txt <==
+4	Ape
+2	Py%27ajere
+2	Mainumby
+2	Main_Page
+2	Ku%C3%B1a
+2	Karai%C3%B1e%27%E1%BA%BD
+2	K%C3%A1i
+2	Jasypak%C3%B5i
+2	Etohom
+2	Eirete
+
+==> counts/counts_lang_kw.txt <==
+6	kw
+5	Folen_dre
+3	User
+3	Mis_Kevardhu
+2	Lek
+2	Kowr_gas
+2	Kameroun
+2	Islam
+2	Grew
+2	Godhelek
+
+==> counts/counts_lang_haw.txt <==
+11	Ka_papa_kinohi
+3	haw
+3	K%C4%93k%C4%93mapa
+2	Welemoneka
+2	Trefacio
+2	Nika
+2	L%C4%81
+2	Konekikuka
+2	Kamakeko
+2	Kalikimaka
+
+==> counts/counts_lang_pag.txt <==
+5	Arapan_ya_Bolong
+4	December_31
+4	December_10
+3	December_11
+2	May_23
+2	Filipinas
+2	December_7
+2	December_13
+2	December_12
+2	August_3
+
+==> counts/counts_lang_dsb.txt <==
+24	Main_Page
+7	dsb
+6	G%C5%82owny_bok
+3	War%C5%A1awa
+2	Zymski
+2	Srjej%C5%BAne_m%C3%B3rjo
+2	Pomoc%3APomoc
+2	Okcitan%C5%A1%C4%87ina
+2	Nil_(r%C4%9Bka)
+2	Netscape_Navigator
+
+==> counts/counts_lang_ext.txt <==
+3	ext
+3	Continenti
+3	Bulg%C3%A1ria
+2	Wuhan
+2	Santiago_de_Chile
+2	Paisis_Bajus
+2	P%C3%A1gina_prencipal
+2	Mari_Mediterr%C3%A1neu
+2	Luenga_portuguesa
+2	Luenga_ingresa
+
+==> counts/counts_lang_szl.txt <==
+12	szl
+10	Kim_Dzong_Il
+6	Przod%C5%84o_zajta
+5	Przod%25C5%2584o_zajta
+5	Przod%2525C5%252584o_zajta
+5	Przod%252525C5%25252584o_zajta
+3	Grud%C5%BAy%C5%84
+3	Bober
+2	User
+2	Uk%C5%82od_jednostk%C5%AFw_mjar%C5%AFw_MKSA
+
+==> counts/counts_lang_sc.txt <==
+7	P%C3%A0gina_printzipale
+3	Nadale
+3	Black_Terror
+2	Maju
+2	Istedda
+2	Gesuitas
+2	Arm%C3%A8nia
+1	sc
+1	p%C3%A0zina_printzipale
+1	geografia
+
+==> counts/counts_lang_ti.txt <==
+5	%E1%88%98%E1%89%A0%E1%8C%88%E1%88%B2_%E1%8C%88%E1%8C%BD
+2	%E1%8B%8A%E1%8A%AA%E1%8D%94%E1%8B%B2%E1%8B%AB
+2	%E1%88%95%E1%8A%AD%E1%88%9D%E1%8A%93
+2	%E1%88%8D%E1%89%A2
+1	ኣነ
+1	Timmea
+1	Sumigaw
+1	Nka_chat
+1	Love
+1	Ipalaganap
+
+==> counts/counts_lang_lad.txt <==
+5	lad
+4	La_Primera_Hoja
+3	Disiembre
+3	A%C3%B1o
+2	Mayo
+2	Kalabria
+2	Jibraltar
+2	Inisiasion
+2	Hamsa
+1	valhermosa
+
+==> counts/counts_lang_jbo.txt <==
+6	jbo
+4	ralju_ckupau
+3	ctebi_moldruti%27e_zunsna
+2	uikipedias
+2	risna
+2	pavrelma%27i_31moi
+2	ctona%27a
+2	afyganisTAN
+2	1976moi
+2	1936moi
+
+==> counts/counts_lang_tpi.txt <==
+5	Fran_pes
+4	Septemba
+4	Disemba
+3	Samoa
+3	Janueri
+3	Gandi
+2	tpi
+2	Yia
+2	Toksave_long_ol_raits_bilong_ol_manmeri_long_olgeta_hap_bilong_dispela_giraun
+2	Solwara_Pasifik
+
+==> counts/counts_lang_ilo.txt <==
+3	Umuna_a_Panid
+3	Disiembre
+3	1929
+2	Disiembre_31
+2	Disiembre_13
+2	Disiembre_12
+2	Disiembre_11
+2	Disiembre_10
+2	Abra
+2	2012
+
+==> counts/counts_lang_crh.txt <==
+9	crh
+8	Ba%C5%9F_Saife
+2	User
+2	Tataristan
+2	T%C3%BCrkiye
+2	Senegal
+2	Ortodoksl%C4%B1q
+2	Moskva
+2	Leh_tili
+2	Frenk_tili
+
+==> counts/counts_lang_ay.txt <==
+10	Nayriri_u%C3%B1stawi
+5	ay
+2	Wikipidiya
+2	V%C3%A1clav_Havel
+2	Uywa
+2	Uru
+2	Uma
+2	Quqa
+2	Qhichwa_aru
+2	Parawayi
+
+==> counts/counts_lang_cbk-zam.txt <==
+4	El_Primero_Pagina
+2	Mes
+2	Justin_Bieber
+2	Filipinas
+2	6_de_marso
+2	5_de_marso
+2	5_de_Febrero
+2	31_de_Diciembre
+2	30_de_Diciembre
+2	29_de_Diciembre
+
+==> counts/counts_lang_to.txt <==
+14	%25CA%25BBakau_matala
+5	Peesi_tali_fiefia
+3	to
+2	Tau%CA%BBolunga
+2	Ha%CA%BBamoa
+2	Fekika_vao
+1	ʻakau_sukau
+1	Vala_fakatonga
+1	Vakalahimoheʻuli
+1	Ula
+
+==> counts/counts_lang_rw.txt <==
+4	Kars
+3	Ukuboza
+3	Main_Page
+2	User
+2	Umusigiti_wa_Yavuz_Sultan_Selim
+2	Mali
+2	Ibiyaga_Bigari
+2	Himalaya
+1	zelfstandig_naamwoord
+1	wife
+
+==> counts/counts_lang_got.txt <==
+9	%F0%90%8C%B7%F0%90%8C%B0%F0%90%8C%BF%F0%90%8C%B1%F0%90%8C%B9%F0%90%8C%B3%F0%90%8C%B0%F0%90%8D%83%F0%90%8C%B4%F0%90%8C%B9%F0%90%8C%B3%F0%90%8D%89
+4	%F0%90%8C%B9%F0%90%8C%B4%F0%90%8D%83%F0%90%8C%BF%F0%90%8D%83_%F0%90%8D%87%F0%90%8D%82%F0%90%8C%B9%F0%90%8D%83%F0%90%8D%84%F0%90%8C%BF%F0%90%8D%83/Iesus_Xristus
+2	User
+2	%F0%90%8D%87%F0%90%8C%BB%F0%90%8C%B1%CA%B9
+2	%F0%90%8D%86%F0%90%8D%82%F0%90%8C%B0%F0%90%8C%BD%F0%90%8C%BA%F0%90%8C%B0%F0%90%8D%82%F0%90%8C%B0%F0%90%8C%B6%F0%90%8C%B3%F0%90%8C%B0/Frankarazda
+2	%F0%90%8D%83%F0%90%8D%85%F0%90%8C%B4%F0%90%8C%B0%F0%90%8D%82%F0%90%8C%B4%F0%90%8C%B9%F0%90%8C%BA%F0%90%8C%B9
+1	Tsjetsjenja
+1	Tatarstan
+1	Main_Page
+1	Ingushettja
+
+==> counts/counts_lang_strategy.txt <==
+13	Main_Page
+5	Process/Background
+4	Board_of_Trustees
+2	index.php
+2	User
+2	Main_Page/or
+2	Main_Page/mr
+2	Main_Page/ka
+2	Main_Page/hi
+1	Wikiversity
+
+==> counts/counts_lang_stq.txt <==
+10	Haudsiede
+6	stq
+3	Vierkante_kilometer
+3	S%C3%A4lle_%28Biologie%29
+3	Bruure_Halbertsma
+2	User
+2	Riegenschaltenge_un_Parallelschaltenge
+2	Illirisk
+2	Heelkunde
+2	Bromium
+
+==> counts/counts_lang_na.txt <==
+7	Bwiema_peij
+3	na
+2	United_Arab_Emirates
+2	Turkey
+2	Thailand
+2	South_Korea
+2	Pichincha
+2	Gabun
+2	Ekwador
+2	Cambodia
+
+==> counts/counts_lang_pap.txt <==
+3	P%C3%A1gina_Prinsipal
+3	Antias_Menor
+2	Teksas
+2	Presidente_di_Est%C3%A1dos_Un%C3%ADdos
+2	Etimologico
+2	ADN
+2	1975
+2	1928
+1	reggea
+1	protestá
+
+==> counts/counts_lang_bug.txt <==
+7	Halaman_Utama
+4	bug
+2	Vosne-Roman%C3%A9e
+2	Brasparts
+1	Wikipedia
+1	Villers-la-Ville,_Haute-Sa%C3%B4ne
+1	Villemontoire
+1	Villefranche-sur-Mer
+1	Vasseny
+1	Vailly-sur-Aisne
+
+==> counts/counts_lang_pnt.txt <==
+5	%CE%91%CF%81%CF%87%CE%B9%CE%BA%CF%8C%CE%BD_%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1
+3	%CE%A7%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%85%CE%B3%CE%B5%CE%BD%CE%BD%CE%AC%CF%81%CF%84%CF%82
+2	w...%CE%91%CE%BD%CF%84%CE%AD%CE%BC
+2	pnt
+2	6_%CE%9A%CE%B1%CE%BB%CE%B1%CE%BD%CF%84%CE%B1%CF%81%CE%AF
+2	%CE%A7%CF%8C%CF%81%CF%87%CE%B5_%CE%9B%CE%BF%CF%85%CE%AF%CF%82_%CE%9C%CF%80%CF%8C%CF%81%CF%87%CE%B5%CF%82
+2	%CE%A4%CF%83%CE%AC%CE%BC%CF%80%CE%B1%CF%83%CE%B9%CE%BD
+2	%CE%96%CF%89%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CE%AE%CE%BD
+2	%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1
+1	Βουλγαρία
+
+==> counts/counts_lang_bjn.txt <==
+28	Tungkaran_Tatambaian
+5	bjn
+3	1790
+3	13_Disimbir
+2	Wikimedia_Foundation
+2	Tata_Surya
+2	Tahun_puga
+2	Mata_angin
+2	Disimbir
+2	Bahasa_Parancis
+
+==> counts/counts_lang_fj.txt <==
+8	Tabana_levu
+3	Ai_vola_i_Sefanaia_na_Parofita
+2	tema
+2	br%C3%BBlure
+2	boutique
+2	Manumanu
+2	Haryana
+2	%CE%B5%CE%B2%CE%B4%CE%BF%CE%BC%CE%AC%CE%B4%CE%B1
+1	yst%C3%A4v%C3%A4
+1	wife
+
+==> counts/counts_lang_pdc.txt <==
+14	Haaptblatt
+5	pdc
+2	Vernon_Kaundi_Amisch_Settlement_(Readstown)
+2	User
+2	Neiyaahrsdaag
+2	Neiyaahrnacht
+2	Dasche
+2	Betschler
+2	Angela_Merkel
+1	mediawiki.util
+
+==> counts/counts_lang_gag.txt <==
+5	gag
+5	Ba%C5%9F_yaprak
+2	Wisconsin
+2	User
+2	Moldovan_dili
+2	Kuveyt_dinar%C4%B1
+2	Fran%C8%9Buz_dili
+2	Drama_Yaratmas%C4%B1
+2	Anse-d%27Hainault
+2	Ankara
+
+==> counts/counts_lang_beta.txt <==
+9	Main_Page
+2	admin/sqlpatch.php/password_forgotten.php
+2	Main_Page/admin/sqlpatch.php/password_forgotten.php
+2	%E9%A6%96%E9%A1%B5
+1	പ്രധാന_താള്‍
+1	main_page
+1	User
+1	Tehnologii_XML_--_Managementul_conferintelor_--_Design_--_2007-2008_--_info.uvt.ro
+1	Sotsiaalsed_j%C3%A4rjehoidjad
+1	Sotsiaalne_tarkvara_ja_v%C3%B5rgukogukonnad/Sotsiaalsed_v%C3%B5rgustikud
+
+==> counts/counts_lang_rm.txt <==
+3	User
+3	Revoluziun_franzosa
+2	rm
+2	Vichipedia
+2	Uranus_(planet)
+2	Rumantsch_dal_Grischun
+2	Ohio
+2	Massachusetts
+2	La_runa
+2	Cussegl_dals_chantuns
+
+==> counts/counts_lang_nan.txt <==
+1	聯合國教育、科學佮文化組織
+1	聯合國教科文組織
+1	日內瓦公約
+1	長篇小說
+1	毛澤東
+1	貨幣
+1	總統
+1	立法
+1	禮拜
+1	戲劇
+
+==> counts/counts_lang_rmy.txt <==
+7	Sherutni_patrin_-_%E0%A4%B6%E0%A5%87%E0%A4%B0%E0%A5%81%E0%A4%A4%E0%A5%8D%E0%A4%A8%E0%A4%BF_%E0%A4%AA%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%A8
+2	Shibavipen
+2	Romano_lekhipen
+2	Chexanipen
+2	Bulgariya
+2	Buenos_Aires
+2	2012
+2	1_E30_kg
+1	Zhudetso_Yashi
+1	Yashi
+
+==> counts/counts_lang_sn.txt <==
+7	sn
+5	Peji_Rekutanga
+3	Mbutu
+3	Bonde_(kusvira)
+2	Svira
+2	Mugovera
+2	Moyo
+2	Mboro
+2	Fungisai_Zvakavapano-Mashavave
+2	Bhaibheri
+
+==> counts/counts_lang_cr.txt <==
+4	Main_Page
+2	%E1%90%83%E1%94%A8%E1%94%AB_%E1%90%8A%E1%94%A8%E1%92%A7%E1%90%8E%E1%93%90
+1	cr
+1	Wikipedia%3ACommunity_Portal
+1	User
+1	Pim%C3%AEhk%C3%A2n
+1	Pahkwesikan
+1	Odjevena
+1	Misi-p%C3%A1wastik
+1	Maskisin
+
+==> counts/counts_lang_zea.txt <==
+6	V%C3%B2blad
+3	8_december
+2	zea
+2	Taelkunde
+2	Panev%C4%97%C5%BEys
+2	Koekoekachtegen
+2	Chili
+2	Bolivia
+1	Zwitserland
+1	Zweden
+
+==> counts/counts_lang_wo.txt <==
+17	X%C3%ABt_wu_nj%C3%ABkk
+3	X%C3%ABtu_Nj%C3%ABlb%C3%A9en
+3	Wikipedia
+3	Disambar
+2	Tembte
+2	Saytubiddiw
+2	Rakkaati-g%C3%A0mmu
+2	Bm
+1	Ñaar
+1	wo
+
+==> counts/counts_lang_bxr.txt <==
+4	%D0%9D%D1%8E%D1%83%D1%80_%D1%85%D1%83%D1%83%D0%B4%D0%B0%D2%BB%D0%B0%D0%BD
+3	B
+1	Хөөлэнтии
+1	ru/%D0%98%D0%BD%D0%B3%D2%AF%D2%AF%D1%88_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0
+1	bxr
+1	11_%D2%BB%D0%B0%D1%80%D1%8B%D0%BD_7
+1	%D0%A7%D0%B0%D0%B2%D0%B0%D0%B0%D1%88_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0
+1	%D0%A5%D0%BE%D0%BD%D1%85%D0%BE_%D1%81%D1%8D%D1%81%D1%8D%D0%B3
+1	%D0%A2%D1%83%D0%B2%D0%B0_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0
+1	%D0%A1%D1%8D%D1%81%D1%8D%D0%BD_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D1%8B%D0%BD_%D0%B4%D1%83%D1%83%D0%BB%D0%B0%D0%BB
+
+==> counts/counts_lang_epo.txt <==
+1	Ŝanĝoj_inter_la_Norena_kaj_Islanda_lingvoj
+1	Zip
+1	Vestfalio
+1	Verdurian_language
+1	Valso
+1	Vabungula
+1	VHS
+1	Uruk
+1	United_States_Military_Academy
+1	Txindoki
+
+==> counts/counts_lang_ie.txt <==
+4	ie
+4	Principal_p%C3%A1gine
+3	Iveta_Radi%C4%8Dov%C3%A1
+3	Decembre
+2	User
+2	P%C3%A1gine_principal
+2	Berlin
+1	hollandesi
+1	hollandes
+1	flicca
+
+==> counts/counts_lang_sources.txt <==
+1	Sonnet_27_(Shakespeare)
+1	Praise,_my_soul,_the_king_of_heaven
+1	Panthera_pardus
+1	Lou_cant_dou_soul%C3%A8u
+1	Letter_of_Bishop_Hilfrich_to_Reich_Justice_Minister
+1	Leopard_%C5%A1kvrnit%C3%BD
+1	Flatland
+1	DNA_integrated_circuits
+1	D._H._Wester
+1	Constitution%20des%20%C3%89tats-Unis%20d%27Am%C3%A9rique
+
+==> counts/counts_lang_kab.txt <==
+4	Asebter_amenzawi
+3	Bujember
+2	kab
+2	We%C9%A3ref
+2	The_Rolling_Stones
+2	Orcalim
+2	5_%C9%A3uct
+2	1_yennayer
+2	11_ctember
+1	Yulyu
+
+==> counts/counts_lang_mo.txt <==
+3	%D0%9F%D0%B0%D3%82%D0%B8%D0%BD%D0%B0_%D0%BF%D1%80%D0%B8%D0%BD%D1%87%D0%B8%D0%BF%D0%B0%D0%BB%D1%8D
+2	%D0%A7%D0%B0%D1%81%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BF%D0%BE%D1%8F%D1%81
+2	%D0%91%D1%83%D0%BA%D1%8D%D1%82%D1%8D%D1%80%D0%B8%D0%B5
+1	Жудецул_Мариямполе
+1	Danemarca
+1	%D0%A4%D0%B8%D0%BB%D0%BC
+1	%D0%A3%D0%B7%D0%B1%D0%B5%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD
+1	%D0%A1%D1%8D%D1%87%D0%B5%D0%BB%D0%B5
+1	%D0%9B%D0%B8%D1%81%D1%82%D1%8D_%D0%B4%D0%B5_%D0%BE%D1%80%D0%B0%D1%88%D0%B5_%D0%B4%D0%B8%D0%BD_%D0%90%D1%80%D0%B3%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D0%B0
+1	%D0%98%D1%81%D0%BB%D0%B0%D0%BC%D0%B8%D0%B7%D0%BC
+
+==> counts/counts_lang_pcd.txt <==
+4	Accueul
+3	Alen%C3%A7on
+2	pcd
+2	User
+2	Mout%C3%B2le
+1	Vert-linette
+1	Univarsit%C3%A9_Lille_Nord_d%27Franche
+1	Univarsit%C3%A8_d%27Picardie
+1	Tiots_noms_din_ches_langues_d%27Ouol
+1	Tennis
+
+==> counts/counts_lang_ltg.txt <==
+3	Z%C4%ABmys_mieness
+3	Suoku_puslopa
+3	Sulu_miene%C5%A1a_14_d%C4%ABna
+2	Svahili_vol%C5%ABda
+2	Rudi%C5%86a_miene%C5%A1a_8_d%C4%ABna
+2	Rudi%C5%86a_miene%C5%A1a_17_d%C4%ABna
+2	Leita_miene%C5%A1a_21_d%C4%ABna
+2	Jezuiti
+2	Jaunagods_miene%C5%A1a_19_d%C4%ABna
+2	ISO_639-2
+
+==> counts/counts_lang_kl.txt <==
+7	Dunedin
+6	Saqqaa
+5	kl
+3	Decemberi
+2	User
+2	Decemberi_31
+2	Decemberi_13
+2	Decemberi_12
+2	Decemberi_11
+2	Decemberi_10
+
+==> counts/counts_lang_kaa.txt <==
+4	Bas_bet
+2	kaa
+2	Ho_Chi_Minh_City
+2	Bolm%C4%B1s
+2	Angola
+2	Abay
+1	Yuriy_Gagarin
+1	Wels
+1	Vladimir_Lenin
+1	Vincent_van_Gogh
+
+==> counts/counts_lang_m.txt <==
+2	observe_and_report
+2	new_jersey
+2	g-force
+2	So_into_You_(Tamia_song)
+1	tuvalu
+1	tuna
+1	tick
+1	thailand
+1	tea
+1	taco
+
+==> counts/counts_lang_ee.txt <==
+3	Axa_do_%C5%8Ag%C9%94
+2	Dzome
+2	Any%C9%94ny%C9%94
+1	w%C3%B2
+1	ee
+1	Yuli
+1	Yawo%C9%96agbe
+1	Yakob
+1	W%C3%B2
+1	Uganda
+
+==> counts/counts_lang_cdo.txt <==
+4	S%C3%A9ng-d%C3%A1ng-c%C3%A1ik
+3	T%C3%A0u_Hi%C4%95k
+3	G%C5%ADi
+2	T%25C3%25A0u_Hi%25C4%2595k
+2	M%C3%AC-gu%C3%B2ng_Ci%C5%8Fk-s%C4%ADk_%C3%94ng-d%C3%B4ng
+2	Java
+2	Hu%C3%A0ng-b%C4%ADng
+2	C%C4%93u-gi%C4%81ng
+1	Ā-ciŭ
+1	cdo
+
+==> counts/counts_lang_zh-cfr.txt <==
+1	Schwerin
+1	Rajasthan
+1	Poa%CC%8Dh-poe
+1	L%C3%AD_%C3%9Ai-b%C3%BBn
+1	1961%E5%B9%B4
+1	19%E4%B8%96%E7%B4%80
+1	%E9%BB%83%E8%89%B2
+1	%E9%9D%9E%E6%B4%B2%E7%B5%84%E5%90%88
+1	%E9%9B%BB%E8%85%A6
+1	%E9%87%8D%E9%87%8F
+
+==> counts/counts_lang_outreach.txt <==
+8	Main_Page
+4	Regional_Ambassadors/Apply
+4	Public_Policy_Initiative
+4	GLAM/Contact
+1	production_survey_(bookshelf)
+1	personae_on_wikipedia
+1	Wikipedian_in_Residence
+1	Wikipedian_Student_Organizations
+1	Wikipedia_for_Teachers_-_University_(Bookshelf)
+1	Wikipedia_Education_Program/Fall_2011/Leaderboard_US
+
+==> counts/counts_lang_ss.txt <==
+7	Likhasi_Lelikhulu
+3	%C3%8DNgong%C3%B3ni
+2	Simudzai_Mureza_wedu_Zimbabwe
+2	Letingekukhutsala
+2	1890
+2	10_%C3%ADNgong%C3%B3ni
+1	siSwati
+1	siDatji
+1	s%C3%ADNg%C3%ADsi
+1	ngiyabonga
+
+==> counts/counts_lang_bm.txt <==
+4	Ny%C9%9B_f%C9%94l%C9%94
+4	Bamanankan
+3	Balanzan
+2	Wikipedi
+2	Segu
+2	Kankalan
+2	J%C9%9Bnselekenaani_Wariko_Kondo
+2	Internet_banking
+2	C%C3%B4te_d%27Ivoire
+2	Bagan
+
+==> counts/counts_lang_za.txt <==
+3	%E9%A6%96%E9%A1%B5
+2	Saeya
+2	Fazgoz
+2	Dahmbwn
+1	Yinhyoz
+1	Yinghlenzbangh
+1	Yiednamz_cancwngh
+1	Yiednamz
+1	Yahben_Cancwngh
+1	Vujhan
+
+==> counts/counts_lang_bi.txt <==
+3	Ireland
+2	bi
+2	Yumi,_Yumi,_Yumi
+2	Wikipedia
+2	St._Louis,_Missouri
+2	Nambawan_Pej
+2	Asia
+1	Yuta
+1	Yunaeted_Nesen
+1	Yumi%2C%20Yumi%2C%20Yumi
+
+==> counts/counts_lang_ig.txt <==
+103	ig
+4	Ih%C3%BC_Mbu
+3	December
+2	September
+2	May_22
+2	August_3
+2	%C3%96nwa_mbu_1
+2	%C3%96nwa_Ishi%C3%AD_27
+1	Washington_(nkeji_obodo)
+1	Vung_Tau
+
+==> counts/counts_lang_ty.txt <==
+3	Fa%E2%80%99ari%E2%80%99ira%E2%80%99a
+2	1965
+2	1962
+1	Vilallonga
+1	Tanata
+1	Sant_Mart%C3%AD_Vell
+1	San_Francisco
+1	Reus
+1	Reo_Tinit%C5%8D
+1	Reo_Tahiti
+
+==> counts/counts_lang_zu.txt <==
+4	Ikhasi_Elikhulu
+3	zu
+2	UbuSulumani
+2	Jeremiya
+2	29_uAgasti
+1	plural
+1	isitolo
+1	isiHholandi
+1	imbewu
+1	ifomu
+
+==> counts/counts_lang_tn.txt <==
+5	Main_Page
+2	International_Standard_Book_Number
+2	Botswana
+1	tn
+1	eau
+1	Tirelo_ya_Dipuo_tsa_Boset%C5%A1haba
+1	Setswana
+1	Setso_sa_Setswana
+1	Serowe
+1	Seretse_Khama
+
+==> counts/counts_lang_om.txt <==
+3	Fuula_Dura
+3	Aquatic_Mammals
+2	Uumama
+2	Richmond,_Virginia
+2	Palestinian_territories
+2	Gulf_of_Aden
+1	regn
+1	juin
+1	estrella
+1	desember
+
+==> counts/counts_lang_minnan.txt <==
+1	Robert_Morrison
+1	L%C3%AD_%C3%9Ai-b%C3%BBn
+1	Hn-g
+1	Eng-g
+1	19%E4%B8%96%E7%B4%80
+1	%E9%9D%9E%E6%B4%B2%E7%B5%84%E5%90%88
+1	%E9%9B%B2%E6%9E%97%E7%B8%A3
+1	%E9%95%B7%E6%98%A5%E5%B8%82
+1	%E9%87%91%E5%90%AB
+1	%E8%B3%87%E6%9C%AC%E4%B8%BB%E7%BE%A9
+
+==> counts/counts_lang_pih.txt <==
+4	pih
+4	Mien_Paij
+3	Porchugal
+3	Disemba
+3	Aagon
+2	Liktenstiin
+2	Ho_Chi_Minh_City
+1	Wiyetnaam
+1	Winta
+1	Tonga
+
+==> counts/counts_lang_st.txt <==
+4	st
+4	Leqephe_la_pele
+2	Bophelo
+1	yane
+1	wena
+1	tsena
+1	se_sekae
+1	se%20sekae
+1	ntshwarele
+1	modianyewe
+
+==> counts/counts_lang_nso.txt <==
+3	Manthole
+2	Manthole_11
+2	Letlakala_la_pele
+2	1918
+1	Sontaga
+1	Pherekgong_9
+1	Pherekgong_7
+1	Pherekgong_5
+1	Pherekgong_2010
+1	Pherekgong_2
+
+==> counts/counts_lang_pfl.txt <==
+2	Woihnachde
+1	Zw%C3%A4dde_Weltkriech
+1	Wadigaan
+1	Voawahl
+1	User
+1	Terrorõõschläg_vum_11._Sebbdemba_2001
+1	Smartphone
+1	Sch%C3%ADllerschdorf
+1	Rosbruck
+1	Richard_Stallman
+
+==> counts/counts_lang_sm.txt <==
+4	It%C5%ABlau_Muamua
+2	To%27elau
+2	Moscow
+1	telephone
+1	able
+1	Wolfgang_Amadeus_Mozart
+1	TA
+1	Sri_Lanka
+1	Siamani
+1	Serbia
+
+==> counts/counts_lang_tet.txt <==
+5	P%C3%A1jina_Mahuluk
+4	admin/sqlpatch.php/password_forgotten.php
+4	Main_Page/admin/sqlpatch.php/password_forgotten.php
+3	Dezembru
+1	Xina
+1	Turkia
+1	Rusu
+1	Polaku
+1	Manuel_Alegre
+1	Kupang
+
+==> counts/counts_lang_ha.txt <==
+5	ha
+4	Marhabin
+2	Kaza
+2	Falesdinian_National_Authority
+2	Bourgogne
+1	Zirin_Gaza
+1	Yanar_gizo
+1	Shuka
+1	Selena
+1	Rasha
+
+==> counts/counts_lang_nostalgia.txt <==
+1	Wood
+1	WhyRossum
+1	Vi
+1	Traditional_music
+1	September_11,_2001_Terrorist_Attack/External_news_sites
+1	Sculpture
+1	RinGs
+1	RationalNumbers
+1	Nobel_Prize_in_literature
+1	Masculist_Trinity
+
+==> counts/counts_lang_sg.txt <==
+2	Z%C3%A2mani
+2	P%C3%B6rtug%C3%A4le
+2	G%C3%A4_nz%C3%B6n%C3%AE
+1	tungum%C3%A1l
+1	to_make
+1	make
+1	User
+1	Saratov
+1	S%C3%A4ng%C3%B6
+1	Otoo
+
+==> counts/counts_lang_ik.txt <==
+4	Makpi%C4%A1aaq_Kanna
+2	Usuk
+2	Nanuq
+1	wolf
+1	mes
+1	luna
+1	ik
+1	ice
+1	Yukon
+1	Vermont
+
+==> counts/counts_lang_ve.txt <==
+3	Hayani
+2	Mbili
+1	Yunivesithi_dza_Afurika_Tshipembe
+1	Yunivesithi
+1	Wikipedia
+1	Swazini
+1	Quanto_che_te_te_cati_d%27acordo_co_%C3%85%C3%AF%C2%BF%C2%BDa_majoransa_xe_riv%C3%83_el_mom%C3%83%C2%A9nto_de_fermarse_a_pensar
+1	Makwarela
+1	Li-Sotho
+1	Johannesburg
+
+==> counts/counts_lang_xh.txt <==
+6	Iphepha_Elingundoqo
+3	Eyomnga
+2	Nelson_Mandela
+2	Main_Page
+2	5_Eyomqungu
+2	2_Eyomsintsi
+1	xh
+1	isiHolani
+1	isiDatshi
+1	iDenmaka
+
+==> counts/counts_lang_usability.txt <==
+6	Main_Page
+4	Whats_new_questions_and_answers
+3	Wikipedia_Usability_Initiative
+2	Usability_and_Experience_Study
+1	wikimedia_accessibility_initiative
+1	Wikimedia_accessibility_initiative
+1	Wikimania
+1	What%27s_new,_questions_and_answers
+1	Toolbar
+1	Opinion_Icons
+
+==> counts/counts_lang_srn.txt <==
+6	Fesipapira
+2	Federation
+2	.uk
+1	srn
+1	Wikipedia%3AAbra
+1	Sint_Maarten
+1	Sabi_fu_Teri
+1	Korsow
+1	Kondre_Makandrameki
+1	Kaw
+
+==> counts/counts_lang_ten.txt <==
+6	admin/sqlpatch.php/password_forgotten.php
+4	Main_Page/admin/sqlpatch.php/password_forgotten.php
+2	index.php
+2	User
+2	Main_Page
+1	Tr%C3%B3jmiasto
+1	San_Francisco_Celebration
+1	Organize/es
+1	Mehrabpur
+1	Main_page
+
+==> counts/counts_lang_tw.txt <==
+4	Main_Page
+3	Yesu_Kristo
+2	Yawoada
+2	USA
+2	Ewo
+1	tw
+1	Wikipedia
+1	Twi
+1	Twere_Kronkron
+1	Tanzania
+
+==> counts/counts_lang_ch.txt <==
+4	Fanhaluman
+2	Maga%27l%C3%A5hi_G%C3%A5dao_yan_i_Tres_na_Ginagao
+2	Chapan
+1	ch
+1	Wikimedia_Foundation
+1	User
+1	Milit%C3%A5t
+1	Louisa
+1	Ho_Chi_Minh
+1	Fundraising_2011/Local_testing
+
+==> counts/counts_lang_kg.txt <==
+3	kg
+2	Lukaya_ya_ntete
+1	wiki
+1	Wolo
+1	Slovenia
+1	Nzadi
+1	Nanasi
+1	Muntu
+1	Mbwila
+1	Mbanza-Ngungu
+
+==> counts/counts_lang_ts.txt <==
+4	N%27wendzamhala
+2	ts
+2	Tlukankulu
+2	1850
+1	nwa
+1	Xitsonga-Media
+1	Wikipediya
+1	Republic_of_the_Congo
+1	Nyenyenyani
+1	Ndzhati
+
+==> counts/counts_lang_ff.txt <==
+2	Hello_ja%C9%93%C9%93orgo
+2	Flag_of_the_Botswana
+1	UNESCO
+1	Senegaal
+1	Sarliyon
+1	Sappo_e_joweego
+1	Muritani
+1	Lewru
+1	Ho_Chi_Minh_City
+1	Hello_jaɓɓorgo
+
+==> counts/counts_lang_tum.txt <==
+2	Mphangwe
+2	Main_Page
+1	Vinyama
+1	Nyama
+1	Ntochi
+1	Malawi
+1	Khumi
+1	Ho_Chi_Minh_City
+1	HIV_and_AIDS
+1	HIV%20and%20AIDS
+
+==> counts/counts_lang_aa.txt <==
+1	meta.wikimedia.org/wiki/Proposals_for_closing_projects/
+1	Meta.wikimedia.org/wiki/Proposals_for_closing_projects/
+1	Main_Page
+1	%D0%92%D0%B0%D1%81%D1%96%D0%BB%D1%8C_%D0%91%D1%8B%D0%BA%D0%B0%D1%9E
+
+==> counts/counts_lang_ak.txt <==
+8	Krataafa_Titiriw
+1	ak
+1	Wikipedia
+1	Tan_Son_Nhat
+1	Occitan
+1	Nkran
+1	Ngyiresi
+1	Khartoum
+1	Ho_Chi_Minh_City
+1	English
+
+==> counts/counts_lang_quote.txt <==
+1	Tales_of_the_Abyss
+1	Shaun_of_the_Dead
+1	Musicology
+1	Mozart
+1	Mistakes
+1	Marilyn_Monroe
+1	Joseph_Merrick
+1	Joseph_Conrad
+1	Isaac_Watts
+1	Edsger_Dijkstra
+
+==> counts/counts_lang_ny.txt <==
+3	Tsamba_Lalikulu
+2	Chilatini
+2	%CE%9A
+1	ny
+1	Yohane
+1	William_Johnson
+1	Sudan
+1	Mwimbi
+1	Mponela
+1	Meyi
+
+==> counts/counts_lang_lg.txt <==
+15	Olupapula_Olusooka
+2	lg
+1	berlin
+1	Yitale
+1	Rwasha
+1	Lukumi
+1	Kampala
+1	Ho_Chi_Minh_City
+1	Buyonaani
+1	Bulaaya
+
+==> counts/counts_lang_rn.txt <==
+3	Main_Page
+2	Kuvayo
+1	rn
+1	inkara
+1	icuminarimwe
+1	Portugal
+1	Leta_Zunze_Ubumwe_za_Amerika
+1	Hauptseite
+1	Danemarke
+
+==> counts/counts_lang_chy.txt <==
+5	Main_Page
+3	Mahpe
+1	Vohpenahkohe
+1	Nevada
+1	Nanose%27hame
+1	Ho_Chi_Minh_City
+1	Concepci%C3%B3n
+1	California
+
+==> counts/counts_lang_ki.txt <==
+4	Main_Page
+1	User
+1	Somalia
+1	Kĩrĩnyaga
+1	Kwina_nguuki!
+1	Italy
+1	Hauptseite
+1	Esperanto
+1	?match=fi
+
+==> counts/counts_lang_kj.txt <==
+1	Siyaseta_prat%C3%AEk_yan%C3%AE_guh_nedana_rast%C3%AEyan
+1	Main_Page
+1	%C5%EF%BF%BD%C3%BBrbaz%C3%AE
+
+==> counts/counts_lang_mh.txt <==
+1	Main_Page
+1	Kajin_M%CC%A7aje%C4%BC
+1	Internet_banking
+1	Hauptseite
+
+==> counts/counts_lang_kr.txt <==
+2	Main_Page
+1	kr
+1	%EB%8F%84%EB%A7%9D%EC%9E%90_%ED%94%8C%EB%9E%9C_B
+
+==> counts/counts_lang_ii.txt <==
+1	Internet_banking
+1	%E9%A6%96%E9%A1%B5
+
+==> counts/counts_lang_hz.txt <==
+2	Main_Page
+1	Jehova
+1	Hauptseite
+
+==> counts/counts_lang_quality.txt <==
+1	Portal/nl
+1	Portal
+
+==> counts/counts_lang_ng.txt <==
+1	ng
+1	Main_Page
+
+==> counts/counts_lang_test2.txt <==
+1	Internet_slang
+
+==> counts/counts_lang_cho.txt <==
+1	Chahta_Anumpa
+
+==> counts/counts_lang_ho.txt <==
+1	ranu
+1	Ranu
+
+==> counts/counts_lang_mus.txt <==
+1	Main_Page
+
+==> counts/counts_lang_ru.txt <==
